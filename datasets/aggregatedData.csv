@@ -1,522 +1,529 @@
-clean_artist,clean_track,danceability,energy,valence,acousticness,instrumentalness,tempo,speechiness,play_count,is_loved
-a família,brinquedo assassino,0.771,0.746,0.502,0.0902,0.0,148.054,0.262,2,0
-abba,super trouper,0.724,0.724,0.927,0.294,0.0,117.986,0.0304,1,0
-adnan sami,tera chehra,0.646,0.562,0.488,0.523,0.0021,100.0,0.0331,1,0
-air,kelly watch the stars,0.516,0.743,0.226,0.282,0.637,109.837,0.0292,17,0
-air,la femme d'argent,0.517,0.737,0.558,0.434,0.684,79.82,0.0352,20,0
-air,le voyage de pénélope,0.505,0.513,0.309,0.557,0.894,129.871,0.031,11,0
-air,sexy boy,0.437,0.652,0.211,0.0011,0.614,111.888,0.0288,9,0
-air,talisman,0.564,0.547,0.297,0.0711,0.861,132.935,0.0302,16,1
-alec benjamin,let me down slowly,0.652,0.557,0.483,0.74,0.0,150.073,0.0318,1,0
-alice in chains,bleed the freak,0.245,0.749,0.221,0.00252,7.87e-06,118.363,0.0599,2,0
-alice in chains,dam that river (2022 remaster),0.427,0.913,0.471,0.00636,0.0,124.419,0.0804,6,0
-alice in chains,don't follow,0.314,0.37,0.28,0.781,0.139,116.066,0.0286,29,1
-alice in chains,down in a hole (2022 remaster),0.357,0.795,0.416,0.0134,0.00013,97.171,0.0337,9,1
-alice in chains,"down in a hole - live at the majestic theatre, brooklyn, ny - april 1996",0.554,0.515,0.432,0.0883,2.7e-05,95.125,0.024,46,0
-alice in chains,heaven beside you,0.551,0.724,0.559,0.00451,0.000167,111.243,0.032,31,0
-alice in chains,i stay away,0.174,0.781,0.276,0.0452,0.00346,81.37,0.0406,44,0
-alice in chains,man in the box,0.355,0.791,0.758,0.00045,0.0,106.392,0.0453,7,0
-alice in chains,no excuses,0.527,0.838,0.721,0.0206,0.00062,117.454,0.0323,54,0
-alice in chains,nutshell,0.384,0.561,0.159,0.373,0.253,136.136,0.0296,47,1
-alice in chains,"nutshell - live at the majestic theatre, brooklyn, ny - april 1996",0.36,0.548,0.244,0.328,0.217,121.801,0.0468,34,0
-alice in chains,rain when i die (2022 remaster),0.422,0.859,0.203,0.0183,0.000673,120.078,0.0757,11,0
-alice in chains,rooster (2022 remaster),0.271,0.551,0.2,0.0307,0.000581,143.899,0.0272,9,0
-alice in chains,rotten apple,0.31,0.637,0.426,0.215,0.116,147.4,0.037,65,0
-alice in chains,them bones (2022 remaster),0.159,0.946,0.309,0.0235,8.06e-06,165.014,0.0629,10,0
-alice in chains,we die young,0.486,0.938,0.525,1.79e-05,0.000103,125.816,0.0704,1,0
-alice in chains,would? (2022 remaster),0.305,0.833,0.586,0.000327,2.36e-05,100.675,0.0398,5,0
-america,a horse with no name,0.653,0.507,0.831,0.687,0.0147,123.188,0.0534,1,0
-aphex twin,#3,0.167,0.071,0.0613,0.911,0.855,143.315,0.041,1,0
-aphex twin,i,0.183,0.0896,0.0326,0.989,0.899,76.923,0.0486,1,0
-aphex twin,qkthr,0.463,0.0223,0.0571,0.993,0.768,78.66,0.046,2,0
-aphex twin,tha,0.599,0.406,0.326,0.822,0.933,134.762,0.0368,1,0
-aphex twin,windowlicker,0.698,0.789,0.492,0.132,0.0091,123.016,0.163,1,0
-aphex twin,xtal,0.51,0.505,0.318,0.342,0.96,114.532,0.0344,1,0
-aphrodite's child,the four horsemen,0.294,0.653,0.185,0.0612,0.000689,95.011,0.0504,1,0
-arctic monkeys,505,0.526,0.866,0.248,0.00287,7.78e-05,140.266,0.0568,24,0
-arctic monkeys,a certain romance,0.455,0.881,0.201,0.000566,6.06e-05,137.949,0.0401,9,0
-arctic monkeys,american sports,0.372,0.865,0.594,0.00169,0.00293,176.689,0.0513,29,0
-arctic monkeys,arabella,0.579,0.558,0.506,0.0202,1.26e-06,179.949,0.0895,40,0
-arctic monkeys,balaclava,0.414,0.811,0.762,0.00133,0.000129,137.617,0.0919,13,0
-arctic monkeys,batphone,0.675,0.681,0.675,0.312,0.0,106.521,0.0356,29,0
-arctic monkeys,big ideas,0.548,0.328,0.343,0.663,0.00365,67.023,0.0296,24,0
-arctic monkeys,bigger boys and stolen sweethearts,0.494,0.587,0.605,0.00518,0.0,131.774,0.0324,6,0
-arctic monkeys,black treacle,0.343,0.89,0.525,0.000821,0.0,100.061,0.0655,2,0
-arctic monkeys,body paint,0.56,0.313,0.254,0.567,0.0,144.745,0.0627,86,0
-arctic monkeys,brianstorm,0.42,0.974,0.463,8.15e-05,0.00155,165.182,0.191,13,0
-arctic monkeys,cigarette smoker fiona,0.372,0.841,0.322,0.000654,2.36e-05,143.283,0.206,2,0
-arctic monkeys,cornerstone,0.287,0.721,0.763,0.00764,0.0,169.252,0.0387,17,0
-arctic monkeys,crying lightning,0.498,0.885,0.67,0.0148,0.00041,106.719,0.0461,27,0
-arctic monkeys,d is for dangerous,0.555,0.925,0.77,1.09e-05,0.000161,145.061,0.0362,13,0
-arctic monkeys,dance little liar,0.538,0.607,0.543,0.0586,0.769,100.158,0.0352,18,0
-arctic monkeys,dancing shoes,0.522,0.889,0.852,0.00328,0.0,144.499,0.0461,13,0
-arctic monkeys,dangerous animals,0.34,0.922,0.532,0.0129,2.39e-06,125.363,0.18,9,1
-arctic monkeys,despair in the departure lounge,0.316,0.306,0.284,0.676,0.0025,85.255,0.0411,2,0
-arctic monkeys,do i wanna know?,0.548,0.532,0.405,0.186,0.000263,85.03,0.0323,49,1
-arctic monkeys,do me a favour,0.469,0.738,0.624,0.00013,0.0577,180.15,0.0619,25,1
-arctic monkeys,don't sit down 'cause i've moved your chair,0.434,0.912,0.315,0.0191,0.278,119.729,0.0451,12,0
-arctic monkeys,fake tales of san francisco,0.454,0.778,0.704,0.00998,0.0,127.158,0.0449,14,0
-arctic monkeys,fire and the thud,0.566,0.61,0.406,0.165,0.006,114.904,0.0388,10,0
-arctic monkeys,fireside,0.538,0.953,0.74,0.0234,0.00126,100.033,0.056,46,0
-arctic monkeys,fluorescent adolescent,0.654,0.828,0.79,0.00146,0.000144,112.056,0.0281,27,0
-arctic monkeys,four out of five,0.601,0.863,0.676,0.0626,0.0,130.189,0.0685,88,0
-arctic monkeys,from the ritz to the rubble,0.216,0.882,0.656,0.00147,0.0,189.286,0.0439,8,0
-arctic monkeys,golden trunks,0.492,0.564,0.0896,0.129,1.73e-05,92.544,0.0278,29,0
-arctic monkeys,hello you,0.394,0.452,0.653,0.276,0.00998,169.298,0.0321,42,0
-arctic monkeys,i ain’t quite where i think i am,0.544,0.337,0.667,0.357,6.34e-05,192.685,0.0653,25,1
-arctic monkeys,i bet you look good on the dancefloor,0.535,0.948,0.778,0.00225,0.0,103.183,0.0356,14,0
-arctic monkeys,i wanna be yours,0.464,0.417,0.479,0.136,0.022,67.528,0.0256,41,0
-arctic monkeys,i want it all,0.499,0.81,0.288,0.000637,0.0748,131.052,0.0347,48,0
-arctic monkeys,"if you were there, beware",0.328,0.805,0.264,0.000938,0.048,135.546,0.0383,14,0
-arctic monkeys,jet skis on the moat,0.651,0.244,0.395,0.856,0.00165,149.759,0.0544,25,0
-arctic monkeys,knee socks,0.665,0.542,0.587,0.123,0.00291,97.975,0.033,51,0
-arctic monkeys,love is a laserquest,0.349,0.662,0.554,0.00197,0.908,169.926,0.0402,1,0
-arctic monkeys,mad sounds,0.532,0.462,0.485,0.279,0.196,80.001,0.03,35,0
-arctic monkeys,mardy bum,0.634,0.599,0.312,0.0288,0.0,112.215,0.0365,10,0
-arctic monkeys,mr schwartz,0.569,0.335,0.388,0.802,0.018,127.587,0.0322,25,0
-arctic monkeys,my propeller,0.415,0.657,0.69,0.052,0.0552,115.752,0.0295,10,0
-arctic monkeys,no buses,0.481,0.524,0.425,0.155,0.000147,101.883,0.0369,1,0
-arctic monkeys,no. 1 party anthem,0.505,0.698,0.599,0.33,0.0887,115.013,0.0297,35,0
-arctic monkeys,old yellow bricks,0.66,0.837,0.757,0.000147,6.62e-06,135.158,0.0682,12,0
-arctic monkeys,one for the road,0.415,0.668,0.842,0.212,0.0615,180.048,0.036,50,0
-arctic monkeys,perfect sense,0.52,0.478,0.545,0.61,0.00122,82.932,0.0276,23,0
-arctic monkeys,perhaps vampires is a bit strong but…,0.371,0.914,0.394,0.000293,8.75e-05,134.982,0.081,9,0
-arctic monkeys,piledriver waltz,0.443,0.865,0.474,0.00724,0.000116,110.008,0.0391,3,0
-arctic monkeys,potion approaching,0.421,0.758,0.767,0.0062,0.0673,103.659,0.0429,7,0
-arctic monkeys,pretty visitors,0.244,0.896,0.142,0.0614,2.83e-05,83.354,0.464,9,0
-arctic monkeys,r u mine?,0.288,0.758,0.619,0.00616,0.0,97.094,0.0371,48,0
-arctic monkeys,reckless serenade,0.585,0.694,0.785,0.00037,0.0144,127.966,0.0392,2,0
-arctic monkeys,red light indicates doors are secured,0.622,0.846,0.914,0.00316,0.0,110.683,0.0311,16,0
-arctic monkeys,red right hand,0.422,0.819,0.598,0.000484,0.0412,139.784,0.051,4,0
-arctic monkeys,riot van,0.593,0.333,0.258,0.358,0.0,103.537,0.046,8,0
-arctic monkeys,science fiction,0.542,0.766,0.643,0.0295,0.0802,88.062,0.0282,28,0
-arctic monkeys,sculptures of anything goes,0.591,0.309,0.257,0.704,0.0122,71.573,0.0287,73,0
-arctic monkeys,secret door,0.323,0.806,0.548,0.0314,1.11e-05,124.615,0.0769,9,0
-arctic monkeys,she looks like fun,0.514,0.773,0.445,0.00944,0.00326,103.943,0.0388,27,0
-arctic monkeys,she's thunderstorms,0.505,0.898,0.731,0.000518,0.00236,118.929,0.0329,2,0
-arctic monkeys,snap out of it,0.728,0.638,0.872,0.249,0.0,130.014,0.0336,47,0
-arctic monkeys,star treatment,0.581,0.767,0.673,0.243,0.00131,120.07,0.0527,71,0
-arctic monkeys,still take you home,0.599,0.946,0.653,0.000669,0.0,108.934,0.0378,10,0
-arctic monkeys,stop the world i wanna get off with you,0.661,0.73,0.53,0.0537,3.44e-05,95.027,0.0574,24,0
-arctic monkeys,suck it and see,0.339,0.932,0.586,0.00105,0.114,128.291,0.057,2,0
-arctic monkeys,teddy picker,0.637,0.963,0.823,0.000286,0.000889,150.1,0.0882,27,0
-arctic monkeys,that's where you're wrong,0.481,0.883,0.46,0.000679,0.558,135.937,0.0638,1,0
-arctic monkeys,the bad thing,0.55,0.952,0.538,0.00103,0.0,111.066,0.075,13,0
-arctic monkeys,the car,0.428,0.365,0.236,0.78,0.0033,94.033,0.0276,25,0
-arctic monkeys,the jeweller's hands,0.51,0.8,0.391,0.137,0.0834,96.935,0.0488,10,0
-arctic monkeys,the ultracheese,0.476,0.555,0.426,0.624,3.98e-05,131.497,0.0404,28,0
-arctic monkeys,the view from the afternoon,0.387,0.922,0.417,0.00487,0.0,146.478,0.0674,18,0
-arctic monkeys,the world's first ever monster truck front flip,0.602,0.601,0.553,0.346,0.349,145.075,0.0303,30,0
-arctic monkeys,there’d better be a mirrorball,0.513,0.369,0.311,0.634,0.0139,72.062,0.0307,82,0
-arctic monkeys,this house is a circus,0.476,0.844,0.658,1.81e-05,0.00196,155.322,0.0431,19,0
-arctic monkeys,too much to ask,0.724,0.757,0.878,0.00777,0.000154,109.98,0.0274,11,0
-arctic monkeys,tranquility base hotel & casino,0.584,0.835,0.781,0.0411,0.0147,142.2,0.0297,67,0
-arctic monkeys,when the sun goes down,0.348,0.875,0.407,0.0341,0.0,169.152,0.199,7,0
-arctic monkeys,who the fuck are arctic monkeys?,0.348,0.896,0.572,0.000216,0.0173,132.577,0.0397,2,0
-arctic monkeys,why'd you only call me when you're high?,0.691,0.631,0.8,0.0483,1.13e-05,92.004,0.0368,44,0
-arctic monkeys,you probably couldn't see for the lights but you were staring straight at me,0.58,0.972,0.926,0.00384,0.0,105.492,0.0589,10,0
-arctic monkeys,you're so dark,0.484,0.649,0.838,0.258,0.0116,151.537,0.0561,32,0
-autechre,bike,0.751,0.61,0.0375,0.0139,0.913,125.237,0.043,1,0
-avenged sevenfold,dear god,0.472,0.772,0.6,0.00658,5.65e-05,139.993,0.0316,1,0
-avicii,hey brother,0.545,0.78,0.458,0.0309,4.64e-05,125.014,0.0436,1,0
-avicii,waiting for love,0.579,0.736,0.613,0.31,0.0,127.999,0.0527,1,0
-bag raiders,shooting stars,0.636,0.72,0.425,0.0893,0.0178,124.944,0.0432,1,0
-bicep,glue,0.853,0.798,0.42,0.0158,0.948,129.983,0.068,1,0
-billy joel,we didn't start the fire,0.712,0.967,0.895,0.0771,0.0,145.024,0.047,1,0
-blink-182,adam's song,0.52,0.775,0.383,0.034,0.0,136.02,0.0348,1,0
-blink-182,i miss you,0.652,0.766,0.641,0.000761,6.34e-06,110.011,0.0345,5,0
-blue öyster cult,(don't fear) the reaper,0.333,0.927,0.385,0.0029,0.000208,141.466,0.0733,2,0
-bob dylan,blowin' in the wind,0.38,0.0993,0.44,0.914,2.32e-05,174.874,0.0509,1,1
-candlebox,change,0.638,0.66,0.398,0.00684,0.0,93.042,0.0286,1,0
-candlemass,solitude,0.229,0.704,0.179,0.000135,0.000384,74.6,0.0342,1,0
-coldplay,higher power,0.507,0.828,0.489,0.00711,2.44e-05,178.032,0.0449,1,0
-crazy town,butterfly,0.736,0.811,0.609,0.00132,0.000142,103.502,0.081,6,0
-cream,white room,0.553,0.576,0.457,0.191,0.00664,109.827,0.0304,1,0
-creed,one last breath,0.386,0.677,0.195,0.00841,0.00366,126.602,0.0346,1,0
-creedence clearwater revival,have you ever seen the rain,0.741,0.697,0.774,0.0665,2.35e-05,116.109,0.0277,1,0
-cyndi lauper,girls just want to have fun,0.71,0.799,0.725,0.22,0.000602,120.372,0.0328,1,0
-cypress hill,insane in the brain,0.897,0.611,0.769,0.0291,0.186,102.304,0.211,2,0
-days of the new,"touch, peel and stand",0.568,0.622,0.833,0.0609,2.62e-06,81.935,0.03,1,0
-derek & the dominos,layla,0.404,0.902,0.497,0.577,0.297,115.669,0.0665,2,0
-dio,holy diver,0.473,0.783,0.124,0.0125,0.475,91.976,0.0869,2,0
-dio,rainbow in the dark,0.508,0.912,0.682,7.06e-05,0.403,117.582,0.0368,1,0
-dj shadow,building steam with a grain of salt,0.613,0.832,0.48,0.388,0.95,164.876,0.0281,6,0
-dj shadow,midnight in a perfect world,0.664,0.644,0.646,0.531,0.661,79.526,0.0352,5,0
-dj shadow,organ donor,0.61,0.571,0.909,0.837,0.743,106.185,0.0315,5,0
-dr. dog,where'd all the time go?,0.454,0.82,0.575,0.132,0.000969,166.303,0.0567,1,0
-eagles,hotel california - 2013 remaster,0.579,0.508,0.609,0.00574,0.000494,147.125,0.027,16,0
-eagles,life in the fast lane - 2013 remaster,0.667,0.755,0.883,0.0966,6.94e-05,109.535,0.069,17,1
-eagles,one of these nights - 2013 remaster,0.655,0.606,0.765,0.0603,0.0789,110.061,0.0285,17,0
-eagles,take it easy - 2013 remaster,0.575,0.67,0.74,0.343,4.95e-06,139.191,0.0318,17,0
-ed sheeran,bad habits,0.807,0.893,0.537,0.0451,2.79e-05,126.011,0.0347,1,0
-ed sheeran,shape of you,0.825,0.652,0.931,0.581,0.0,95.977,0.0802,1,0
-elvis presley,burning love,0.66,0.748,0.972,0.0993,0.00585,143.549,0.0284,1,0
-erasure,a little respect,0.58,0.812,0.655,0.0529,9.36e-06,114.085,0.0256,1,0
-europe,the final countdown,0.529,0.843,0.188,0.0628,0.000827,117.662,0.0616,1,0
-fifth harmony,worth it,0.858,0.78,0.602,0.0478,5.72e-05,99.984,0.0738,1,0
-foo fighters,all my life,0.577,0.604,0.637,0.000218,0.000579,167.719,0.0495,1,0
-foo fighters,everlong,0.413,0.881,0.364,5.99e-05,0.000308,158.066,0.0367,1,0
-funkadelic,can you get to that,0.681,0.897,0.852,0.672,0.0,140.803,0.0874,1,0
-funkadelic,maggot brain,0.305,0.372,0.125,0.499,0.723,131.245,0.0432,4,0
-gesaffelstein,pursuit,0.682,0.934,0.0708,0.0619,0.926,108.982,0.0741,1,0
-ghost,call me little sunshine,0.566,0.871,0.41,0.000674,0.00144,88.012,0.0311,12,0
-ghost,cirice,0.555,0.798,0.284,0.00254,1.5e-05,89.987,0.0279,16,0
-ghost,dance macabre,0.619,0.696,0.727,1.93e-05,0.00555,125.984,0.0315,8,1
-ghost,darkness at the heart of my love,0.54,0.719,0.238,0.00833,0.000158,122.043,0.0284,13,0
-ghost,faith,0.355,0.823,0.229,0.000519,0.072,183.859,0.0517,10,0
-ghost,imperium,0.307,0.473,0.203,0.000524,0.961,74.842,0.0316,7,0
-ghost,kiss the go-goat,0.469,0.851,0.549,0.000213,7.86e-06,130.053,0.0547,14,0
-ghost,life eternal,0.443,0.612,0.204,0.0188,1e-06,155.961,0.0275,8,0
-ghost,mary on a cross,0.466,0.9,0.561,0.000235,0.00104,130.02,0.0447,8,1
-ghost,spillways,0.575,0.868,0.804,0.000207,0.00294,128.069,0.0319,13,0
-ghost,square hammer,0.529,0.903,0.746,3.31e-05,0.182,129.986,0.0483,11,0
-ghost,year zero,0.469,0.705,0.137,0.0304,0.0155,122.025,0.0458,3,1
-good charlotte,the anthem,0.494,0.939,0.893,0.00666,0.0,177.751,0.126,1,0
-gorillaz,clint eastwood,0.663,0.694,0.525,0.0253,0.0,167.953,0.171,1,0
-green day,basket case,0.441,0.943,0.781,0.00293,8.27e-06,85.05,0.0602,1,0
-green day,good riddance (time of your life),0.449,0.432,0.645,0.183,0.0,94.281,0.0306,1,0
-hans zimmer,no time for caution,0.262,0.224,0.0388,0.0545,0.95,119.715,0.0463,1,0
-helmet,unsung,0.311,0.814,0.731,6.74e-05,0.00534,160.303,0.0545,2,0
-hozier,take me to church,0.566,0.664,0.437,0.634,0.0,128.945,0.0464,1,0
-ikebe shakedown,dram,0.595,0.765,0.736,0.056,0.851,149.58,0.0574,1,0
-incubus,drive,0.645,0.792,0.666,0.0562,0.0121,90.565,0.036,1,0
-jack white,lazaretto,0.381,0.838,0.581,0.0046,3.77e-05,118.214,0.0709,3,0
-jim croce,time in a bottle,0.533,0.155,0.592,0.888,0.0,134.019,0.0376,1,0
-jimi hendrix,jungle,0.497,0.499,0.516,0.0558,0.73,174.608,0.056,1,0
-john frusciante,song to sing when i'm lonely,0.629,0.673,0.419,0.294,0.0109,114.243,0.0262,7,0
-john frusciante,the past recedes,0.381,0.334,0.171,0.202,0.000203,102.632,0.0271,15,0
-john frusciante,the will to death,0.498,0.113,0.296,0.691,0.000287,168.383,0.0333,7,1
-john mayer,all i want is to be with you,0.522,0.426,0.304,0.106,0.674,93.049,0.0242,22,0
-john mayer,carry me away,0.677,0.713,0.744,0.0117,0.15,119.997,0.0288,22,0
-john mayer,daughters,0.674,0.413,0.503,0.836,1.95e-05,124.893,0.0274,1,0
-john mayer,dreaming with a broken heart,0.61,0.349,0.155,0.554,0.0099,136.012,0.0301,5,0
-john mayer,edge of desire,0.606,0.441,0.455,0.326,0.0128,66.443,0.0272,16,0
-john mayer,"free fallin' - live at the nokia theatre, los angeles, ca - december 2007",0.315,0.296,0.435,0.771,0.0,173.509,0.0315,7,0
-john mayer,gravity,0.753,0.326,0.237,0.731,0.00131,123.799,0.0342,29,0
-john mayer,half of my heart,0.681,0.593,0.731,0.435,0.000117,115.058,0.0251,2,1
-john mayer,heartbreak warfare,0.624,0.554,0.311,0.191,0.00131,97.031,0.0225,11,0
-john mayer,i guess i just feel like,0.548,0.483,0.166,0.515,0.0674,159.952,0.0268,22,0
-john mayer,in the blood,0.546,0.655,0.518,0.386,1.04e-05,80.007,0.0255,2,0
-john mayer,love on the weekend,0.718,0.583,0.422,0.623,0.000681,119.971,0.0288,3,1
-john mayer,neon,0.699,0.77,0.589,0.0181,0.000138,101.984,0.036,5,1
-john mayer,never on the day you leave,0.536,0.355,0.22,0.733,1.22e-05,139.888,0.0259,2,1
-john mayer,rosie,0.758,0.465,0.758,0.489,5.13e-05,138.9,0.0374,2,0
-john mayer,shot in the dark,0.741,0.556,0.587,0.0629,0.041,122.008,0.0266,23,0
-john mayer,shouldn't matter but it does,0.549,0.324,0.268,0.457,2.2e-06,80.888,0.0285,22,0
-john mayer,slow dancing in a burning room,0.667,0.361,0.29,0.575,0.00506,134.018,0.0273,36,0
-john mayer,stop this train,0.619,0.437,0.408,0.465,0.00619,89.508,0.0314,36,0
-john mayer,the heart of life,0.495,0.238,0.357,0.958,0.0118,175.958,0.03,31,1
-john mayer,til the right one comes,0.807,0.563,0.925,0.242,0.00322,112.985,0.0287,22,0
-john mayer,waiting on the world to change,0.578,0.756,0.663,0.157,0.000232,176.739,0.115,35,0
-john mayer,who says,0.584,0.509,0.367,0.267,0.00252,90.457,0.0287,6,1
-john mayer,why georgia,0.608,0.639,0.369,0.0208,5.94e-05,96.915,0.0246,1,1
-john mayer,why you no love me,0.635,0.562,0.501,0.387,0.000366,97.988,0.0223,22,0
-john mayer,you're gonna live forever in me,0.542,0.131,0.319,0.983,0.00544,136.161,0.0316,13,0
-john mayer,your body is a wonderland,0.647,0.729,0.687,0.0206,0.0489,94.01,0.0236,2,0
-judas priest,you've got another thing coming,0.519,0.833,0.532,0.00572,4.33e-06,138.225,0.0496,1,0
-kavinsky,nightcall,0.532,0.874,0.361,0.00842,0.012,91.038,0.0482,3,0
-korn,freak on a leash,0.353,0.898,0.525,2.23e-05,0.105,103.293,0.052,3,0
-kt tunstall,suddenly i see,0.603,0.78,0.693,0.139,0.0,100.499,0.0438,1,0
-kyuss,green machine,0.497,0.947,0.588,8.21e-05,0.000693,90.371,0.0391,1,1
-lady gaga,bad romance,0.695,0.921,0.714,0.00314,5.26e-05,119.007,0.0363,1,0
-lamb,closer,0.863,0.651,0.869,0.00417,0.143,134.039,0.0907,4,0
-led zeppelin,the rain song - remaster,0.336,0.318,0.24,0.317,0.0716,79.66,0.0263,1,1
-limp bizkit,break stuff,0.432,0.884,0.624,0.0127,0.000527,108.948,0.13,7,1
-limp bizkit,nookie,0.573,0.929,0.284,0.00218,0.0723,97.57,0.082,3,0
-limp bizkit,take a look around,0.425,0.852,0.512,0.0175,0.306,101.968,0.046,2,0
-lou reed,walk on the wild side,0.575,0.318,0.385,0.683,0.000202,104.522,0.109,1,0
-lynyrd skynyrd,free bird,0.249,0.834,0.338,0.0738,9.48e-05,118.223,0.0577,2,0
-lynyrd skynyrd,simple man,0.422,0.752,0.403,0.0366,0.000119,120.471,0.0449,1,0
-mac demarco,chamber of reflection,0.538,0.557,0.506,0.262,0.914,131.03,0.0914,1,0
-mad season,river of deceit,0.455,0.29,0.169,0.0614,0.00225,88.523,0.0288,61,1
-mad season,wake up,0.339,0.276,0.308,0.141,0.00906,83.181,0.0285,71,0
-marina,bubblegum bitch,0.495,0.856,0.609,0.000219,0.0,158.024,0.0311,3,0
-marina,how to be a heartbreaker,0.69,0.897,0.849,0.0142,0.0,140.05,0.0506,2,0
-marina,primadonna,0.66,0.689,0.427,0.0884,0.0,127.98,0.0337,2,0
-massive attack,be thankful for what you've got - 2012 mix/master,0.821,0.528,0.345,0.117,0.0702,92.128,0.0463,55,0
-massive attack,blue lines - 2012 mix/master,0.855,0.496,0.947,0.0778,0.451,95.494,0.0824,55,0
-massive attack,hymn of the big wheel,0.404,0.36,0.0918,0.173,0.000628,86.223,0.0575,2,0
-massive attack,karmacoma,0.801,0.536,0.667,0.00545,0.183,141.068,0.224,1,0
-massive attack,safe from harm - 2012 mix/master,0.677,0.83,0.842,0.0438,0.312,82.274,0.0469,60,0
-massive attack,teardrop,0.615,0.419,0.216,0.0173,0.505,76.996,0.0396,1,0
-massive attack,unfinished sympathy - 2012 mix/master,0.592,0.835,0.703,0.0393,0.209,114.436,0.032,39,0
-mastodon,all the heavy lifting,0.227,0.975,0.264,2.82e-06,0.118,147.172,0.202,1,0
-mastodon,black tongue,0.216,0.969,0.201,3.36e-06,0.608,146.864,0.145,3,0
-mastodon,blasteroid,0.313,0.968,0.315,3.18e-06,0.0563,95.937,0.0957,2,0
-mastodon,curl of the burl,0.459,0.982,0.161,0.000547,0.00131,112.04,0.134,5,0
-mastodon,octopus has no friends,0.106,0.98,0.108,2.71e-05,0.0173,50.893,0.332,1,0
-mastodon,the hunter,0.418,0.751,0.0912,2.03e-05,0.829,118.01,0.0318,1,0
-mazzy star,fade into you,0.42,0.33,0.175,0.245,0.000679,157.143,0.0275,1,0
-metallica,battery,0.481,0.928,0.427,0.00022,0.558,96.699,0.0672,2,1
-metallica,enter sandman,0.577,0.828,0.604,0.00213,0.0114,123.257,0.0298,2,1
-metallica,hardwired,0.128,0.991,0.53,1.11e-05,0.00362,186.124,0.0582,1,0
-metallica,master of puppets,0.543,0.836,0.56,0.000647,0.431,105.173,0.0353,1,0
-metallica,one,0.437,0.695,0.413,0.00111,0.0857,102.178,0.0617,4,0
-metallica,sad but true,0.633,0.846,0.448,0.000819,0.00139,89.23,0.0337,1,0
-metallica,the day that never comes,0.334,0.982,0.501,9.11e-05,0.149,126.883,0.0619,2,1
-metallica,the unforgiven,0.54,0.584,0.244,0.0108,0.00296,139.261,0.0254,1,1
-metallica,turn the page,0.426,0.813,0.228,1.94e-05,0.022,149.013,0.0318,1,0
-metallica,wherever i may roam,0.55,0.824,0.332,0.000362,0.00115,131.387,0.0347,1,1
-metallica,whiplash - remastered,0.384,0.916,0.192,0.000611,0.422,158.042,0.0983,1,1
-metallica,whiskey in the jar,0.511,0.97,0.566,5.6e-06,0.00136,132.986,0.0414,1,1
-mgmt,little dark age,0.705,0.712,0.62,0.0102,0.000855,97.512,0.0385,1,0
-michael jackson,you are not alone,0.651,0.402,0.258,0.639,7.73e-05,119.873,0.028,1,0
-moderat,therapy,0.657,0.63,0.106,0.149,0.834,110.008,0.0449,1,0
-morcheeba,big calm,0.345,0.809,0.323,0.0467,0.723,150.234,0.106,20,0
-morcheeba,blindfold,0.572,0.738,0.215,0.0281,0.0274,161.949,0.0348,52,0
-morcheeba,killer hippie - bad vibrations mix,0.653,0.598,0.239,0.136,0.941,172.087,0.11,10,0
-morcheeba,let me see,0.745,0.782,0.604,0.0979,0.566,105.993,0.026,24,0
-morcheeba,part of the process,0.616,0.525,0.402,0.173,0.0125,155.954,0.025,29,0
-morcheeba,ray payola,0.616,0.79,0.556,0.246,0.733,80.036,0.0787,6,0
-morcheeba,the sea,0.535,0.761,0.248,0.0165,0.114,149.968,0.0373,59,0
-morcheeba,trigger hippie,0.628,0.625,0.148,0.0758,0.645,172.154,0.0465,18,0
-nat king cole,the christmas song (merry christmas to you),0.32,0.21,0.208,0.92,8.01e-05,73.196,0.0345,1,0
-nickelback,rockstar,0.616,0.91,0.693,0.0459,0.0,144.072,0.0386,1,0
-nirvana,about a girl,0.409,0.932,0.591,1.87e-05,1.6e-06,131.761,0.0339,19,0
-nirvana,all apologies,0.446,0.632,0.359,0.0793,0.000266,113.176,0.034,2,0
-nirvana,blew,0.411,0.882,0.531,5.65e-06,0.0147,129.848,0.0556,4,0
-nirvana,breed,0.262,0.969,0.263,3.69e-06,0.00213,158.433,0.0894,1,0
-nirvana,come as you are,0.5,0.824,0.539,0.00016,0.00161,120.125,0.0388,5,0
-nirvana,dive,0.425,0.837,0.441,2.04e-06,0.366,128.13,0.0318,1,0
-nirvana,drain you,0.325,0.929,0.198,0.000129,2.22e-06,133.358,0.0695,1,0
-nirvana,dumb,0.697,0.395,0.876,0.428,0.653,113.589,0.0281,3,1
-nirvana,floyd the barber,0.443,0.878,0.683,0.000788,0.56,136.567,0.0418,1,0
-nirvana,frances farmer will have her revenge on seattle,0.482,0.723,0.554,5.66e-05,0.000432,117.051,0.0425,1,0
-nirvana,heart-shaped box,0.256,0.641,0.382,0.199,0.0329,203.006,0.0552,1,1
-nirvana,in bloom,0.436,0.876,0.512,3.33e-05,0.000104,157.044,0.0647,1,0
-nirvana,jesus doesn't want me for a sunbeam,0.51,0.641,0.295,0.0638,3.65e-06,113.646,0.0812,25,0
-nirvana,lake of fire,0.541,0.618,0.68,0.277,4.02e-05,145.464,0.179,2,0
-nirvana,lithium,0.678,0.656,0.485,0.00174,0.0,123.207,0.0381,3,0
-nirvana,lounge act,0.341,0.964,0.459,1.26e-05,0.000103,152.192,0.107,1,0
-nirvana,love buzz,0.479,0.865,0.77,3.1e-05,0.228,137.902,0.0339,3,0
-nirvana,oh me,0.538,0.51,0.262,0.726,0.0187,72.471,0.102,2,0
-nirvana,on a plain,0.428,0.946,0.358,0.000119,3.37e-06,133.26,0.102,16,0
-nirvana,pennyroyal tea,0.428,0.449,0.196,0.000351,0.000498,113.308,0.0342,2,0
-nirvana,plateau,0.45,0.501,0.327,0.49,2.51e-05,84.841,0.0712,2,0
-nirvana,polly,0.618,0.392,0.437,0.683,7.09e-05,115.075,0.0388,5,0
-nirvana,school,0.21,0.943,0.13,1.15e-05,0.493,164.844,0.0785,1,0
-nirvana,sliver,0.428,0.684,0.419,1.16e-05,0.000156,141.336,0.0475,1,0
-nirvana,smells like teen spirit,0.502,0.912,0.72,2.55e-05,0.000173,116.761,0.0564,4,1
-nirvana,something in the way,0.427,0.201,0.0668,0.745,0.263,105.218,0.0317,3,0
-nirvana,territorial pissings,0.285,0.979,0.108,0.000144,0.0,182.7,0.175,1,0
-nirvana,the man who sold the world,0.483,0.753,0.42,0.425,0.000142,115.102,0.0832,2,0
-nirvana,where did you sleep last night,0.573,0.59,0.364,0.667,0.000397,108.789,0.0557,2,1
-nirvana,you know you're right,0.289,0.716,0.344,0.0407,0.00123,168.049,0.106,6,0
-opeth,blackwater park,0.109,0.854,0.134,0.000381,0.228,79.958,0.0871,4,0
-opeth,bleak,0.247,0.868,0.261,8.19e-05,0.663,97.527,0.0762,20,0
-opeth,burden,0.313,0.631,0.184,0.0525,0.0833,119.972,0.0395,1,1
-opeth,closure,0.238,0.597,0.239,0.000791,0.0839,81.825,0.0252,15,0
-opeth,death whispered a lullaby,0.567,0.445,0.143,0.0207,0.000887,149.985,0.0283,15,0
-opeth,deliverance,0.283,0.973,0.275,0.000281,0.706,97.303,0.0459,5,0
-opeth,dirge for november,0.275,0.377,0.123,0.0124,0.658,139.089,0.0409,5,0
-opeth,ending credits,0.498,0.544,0.326,0.121,0.912,168.214,0.0271,13,0
-opeth,ghost of perdition,0.292,0.818,0.19,0.000697,0.00192,93.924,0.0413,3,0
-opeth,hope leaves,0.501,0.48,0.122,0.58,0.079,139.17,0.0249,14,0
-opeth,in my time of need,0.471,0.604,0.187,0.00161,0.154,137.388,0.0286,24,0
-opeth,sorceress,0.446,0.7,0.357,0.0236,0.59,160.058,0.0406,8,0
-opeth,the baying of the hounds,0.283,0.868,0.077,0.00395,0.00201,99.789,0.0653,2,0
-opeth,the devil's orchard,0.511,0.645,0.278,0.00563,0.664,95.005,0.0368,1,0
-opeth,the drapery falls,0.103,0.859,0.306,0.000339,0.168,186.415,0.0803,13,1
-opeth,to rid the disease,0.543,0.487,0.133,0.0171,0.317,133.089,0.0249,13,0
-opeth,will o the wisp,0.452,0.386,0.25,0.318,0.00217,63.344,0.026,1,0
-opeth,windowpane,0.328,0.553,0.322,0.156,0.412,159.959,0.0267,32,0
-pantera,walk,0.428,0.704,0.703,0.000156,0.00223,116.898,0.0808,1,0
-paramore,misery business,0.513,0.906,0.73,0.00272,8.42e-06,173.0,0.0737,1,0
-paul mccartney,wonderful christmastime,0.672,0.601,0.763,0.128,0.0,94.699,0.0279,1,0
-pearl jam,even flow,0.394,0.944,0.265,0.00178,4.54e-06,105.338,0.0761,1,0
-pink floyd,a pillow of winds,0.361,0.211,0.222,0.452,0.00174,142.625,0.0313,4,0
-pink floyd,"another brick in the wall, pt. 2",0.693,0.394,0.721,0.0782,0.000694,104.114,0.0428,1,0
-pink floyd,any colour you like,0.277,0.672,0.505,0.197,0.936,150.587,0.0901,8,0
-pink floyd,brain damage,0.324,0.265,0.208,0.0732,0.341,133.568,0.0302,8,0
-pink floyd,breathe (in the air),0.431,0.373,0.253,0.389,0.728,128.153,0.0346,5,0
-pink floyd,comfortably numb,0.472,0.366,0.171,0.15,0.312,127.163,0.0286,2,0
-pink floyd,dogs,0.321,0.479,0.14,0.076,0.00475,109.289,0.05,15,0
-pink floyd,don't leave me now,0.324,0.11,0.0393,0.0847,0.777,123.534,0.0351,1,0
-pink floyd,echoes,0.285,0.322,0.138,0.367,0.649,133.577,0.0445,4,0
-pink floyd,eclipse,0.359,0.577,0.141,0.0589,0.751,68.064,0.0397,5,0
-pink floyd,fearless,0.381,0.341,0.178,0.161,0.0403,143.756,0.0414,3,0
-pink floyd,goodbye blue sky,0.638,0.0811,0.0503,0.879,0.00313,109.154,0.0335,2,0
-pink floyd,have a cigar,0.454,0.65,0.72,0.407,0.0488,120.155,0.0437,10,0
-pink floyd,hey you,0.587,0.302,0.19,0.223,0.00216,112.46,0.0293,2,0
-pink floyd,in the flesh?,0.316,0.49,0.267,0.416,0.367,152.1,0.0391,2,0
-pink floyd,is there anybody out there?,0.307,0.0742,0.0394,0.72,0.315,118.682,0.0359,2,0
-pink floyd,money,0.468,0.536,0.785,0.024,0.00199,126.256,0.144,11,0
-pink floyd,mother,0.578,0.15,0.12,0.243,0.00707,135.22,0.0334,2,0
-pink floyd,nobody home,0.251,0.148,0.0569,0.713,0.432,206.542,0.0432,2,0
-pink floyd,on the run,0.389,0.563,0.134,0.65,0.903,165.393,0.0622,5,0
-pink floyd,one of my turns,0.315,0.218,0.156,0.305,0.0012,175.868,0.0728,2,1
-pink floyd,one of these days,0.381,0.508,0.403,0.00613,0.846,103.804,0.0465,5,0
-pink floyd,pigs (three different ones),0.419,0.575,0.354,0.103,0.459,129.267,0.0897,96,1
-pink floyd,pigs on the wing 1,0.664,0.171,0.378,0.3,0.001,128.631,0.0452,1,0
-pink floyd,pigs on the wing 2,0.596,0.17,0.486,0.256,4.39e-05,128.585,0.043,1,0
-pink floyd,san tropez,0.691,0.324,0.543,0.171,0.0223,121.664,0.0446,3,0
-pink floyd,sheep,0.28,0.716,0.0618,0.0652,0.52,135.378,0.0983,84,0
-pink floyd,the happiest days of our lives,0.74,0.231,0.546,0.551,0.747,103.994,0.0415,1,0
-pink floyd,the thin ice,0.406,0.128,0.191,0.359,0.0019,110.272,0.0349,2,0
-pink floyd,time,0.359,0.48,0.355,0.521,0.0043,120.285,0.0841,9,0
-pink floyd,us and them,0.357,0.302,0.135,0.862,0.559,72.518,0.0303,10,1
-pink floyd,welcome to the machine,0.381,0.358,0.036,0.524,0.169,133.271,0.0365,12,0
-pink floyd,wish you were here,0.481,0.262,0.375,0.735,0.0114,122.861,0.0414,10,0
-pink floyd,young lust,0.615,0.55,0.549,0.0546,0.19,95.488,0.0349,2,0
-porcupine tree,lazarus,0.354,0.581,0.338,0.201,0.661,171.961,0.0302,1,1
-portishead,all mine,0.601,0.656,0.342,0.11,0.0148,60.161,0.0403,5,0
-portishead,biscuit,0.737,0.455,0.339,0.73,0.055,136.03,0.0805,84,0
-portishead,glory box,0.51,0.433,0.208,0.175,0.516,119.695,0.036,106,0
-portishead,glory box - live,0.43,0.705,0.182,0.149,5.08e-05,118.781,0.0339,3,0
-portishead,it could be sweet,0.668,0.52,0.556,0.698,0.0165,153.963,0.0444,100,0
-portishead,it's a fire,0.636,0.346,0.27,0.405,0.179,89.098,0.0322,5,0
-portishead,mysterons,0.657,0.498,0.46,0.405,0.000479,164.25,0.262,120,0
-portishead,numb,0.326,0.447,0.22,0.056,1.8e-05,78.052,0.0356,91,0
-portishead,only you,0.581,0.316,0.108,0.334,0.0145,120.349,0.19,11,0
-portishead,pedestal,0.411,0.464,0.377,0.154,0.721,84.125,0.076,51,0
-portishead,roads,0.609,0.293,0.193,0.778,0.168,76.11,0.0761,107,0
-portishead,sour times,0.698,0.633,0.55,0.0508,0.272,94.085,0.0406,124,1
-portishead,strangers,0.659,0.617,0.25,0.0355,0.16,84.078,0.038,86,0
-portishead,the rip,0.418,0.486,0.249,0.929,0.461,74.924,0.0318,2,0
-portishead,undenied,0.241,0.281,0.0321,0.45,6.82e-06,222.605,0.0416,6,0
-portishead,wandering star,0.639,0.37,0.707,0.504,0.587,80.152,0.0723,105,0
-queens of the stone age,go with the flow,0.246,0.991,0.415,0.00944,0.0753,159.39,0.087,1,0
-queens of the stone age,no one knows,0.509,0.584,0.685,0.0368,9.96e-05,170.411,0.057,3,0
-rage against the machine,guerrilla radio,0.599,0.957,0.489,0.0129,7.06e-05,103.68,0.188,2,0
-rage against the machine,killing in the name,0.466,0.833,0.661,0.0266,0.0,88.785,0.304,1,0
-rainbow,catch the rainbow,0.32,0.412,0.282,0.188,0.0339,132.986,0.0316,3,0
-rainbow,since you been gone,0.733,0.726,0.915,0.379,2.58e-06,120.814,0.0371,1,1
-rainbow,stargazer,0.166,0.948,0.476,0.00374,0.0131,177.495,0.0631,2,0
-rainbow,the temple of the king,0.486,0.487,0.373,0.445,1.44e-05,81.972,0.0341,3,0
-red hot chili peppers,afterlife,0.561,0.866,0.824,0.00623,0.039,93.104,0.0352,5,1
-red hot chili peppers,bag of grins,0.486,0.812,0.303,0.0106,0.0116,112.648,0.0553,5,0
-red hot chili peppers,bella,0.492,0.815,0.812,0.00643,2e-05,171.379,0.0487,6,1
-red hot chili peppers,black summer,0.417,0.682,0.351,0.0267,0.000669,105.542,0.0295,24,1
-red hot chili peppers,by the way,0.441,0.986,0.184,0.038,0.000781,123.974,0.116,20,0
-red hot chili peppers,californication,0.592,0.765,0.327,0.0021,0.00154,96.483,0.027,24,0
-red hot chili peppers,can't stop,0.618,0.938,0.875,0.0179,0.0,91.455,0.0456,17,0
-red hot chili peppers,carry me home,0.481,0.715,0.222,0.023,0.00213,131.452,0.0661,5,0
-red hot chili peppers,copperbelly,0.592,0.616,0.492,0.0917,0.0106,129.896,0.0337,5,0
-red hot chili peppers,dani california,0.556,0.913,0.73,0.0193,8.59e-06,96.184,0.0437,15,0
-red hot chili peppers,dark necessities,0.7,0.742,0.197,0.0722,0.0199,91.959,0.0716,12,0
-red hot chili peppers,eddie,0.515,0.809,0.525,0.00455,0.0723,142.011,0.0512,25,0
-red hot chili peppers,fake as fu@k,0.599,0.777,0.401,0.0355,0.00301,132.252,0.0922,7,0
-red hot chili peppers,give it away,0.666,0.936,0.776,0.00244,0.086,91.577,0.0476,16,0
-red hot chili peppers,handful,0.572,0.601,0.552,0.0123,0.000237,142.258,0.0392,5,1
-red hot chili peppers,in the snow,0.701,0.347,0.443,0.574,0.000107,86.432,0.0298,5,0
-red hot chili peppers,la la la la la la la la,0.426,0.217,0.179,0.895,9.89e-05,128.22,0.0401,5,0
-red hot chili peppers,my cigarette,0.732,0.653,0.848,0.0158,0.295,178.058,0.0427,5,0
-red hot chili peppers,my friends,0.303,0.71,0.327,0.00575,0.00152,162.657,0.0292,27,0
-red hot chili peppers,nerve flip,0.386,0.936,0.418,0.0121,1.6e-05,176.366,0.0701,6,0
-red hot chili peppers,otherside,0.458,0.795,0.513,0.00316,0.000202,123.229,0.0574,22,0
-red hot chili peppers,peace and love,0.68,0.679,0.867,0.00495,0.00861,83.821,0.0423,6,0
-red hot chili peppers,reach out,0.663,0.71,0.487,0.00745,0.00559,120.984,0.0599,8,1
-red hot chili peppers,road trippin',0.378,0.474,0.38,0.28,0.00138,102.379,0.0271,14,0
-red hot chili peppers,roulette,0.689,0.869,0.84,0.00242,0.00339,100.684,0.0511,5,0
-red hot chili peppers,scar tissue,0.595,0.717,0.547,0.0779,0.00274,88.969,0.0295,23,0
-red hot chili peppers,shoot me a smile,0.576,0.798,0.399,0.125,0.134,146.8,0.0351,5,0
-red hot chili peppers,snow (hey oh),0.427,0.9,0.599,0.116,1.75e-05,104.655,0.0499,8,0
-red hot chili peppers,the drummer,0.536,0.894,0.784,0.00596,0.0168,174.899,0.0479,9,0
-red hot chili peppers,the zephyr song,0.725,0.803,0.403,0.013,3.66e-05,117.391,0.0337,10,0
-red hot chili peppers,tippa my tongue,0.573,0.913,0.795,0.00861,0.0273,88.418,0.0409,7,0
-red hot chili peppers,under the bridge,0.559,0.345,0.458,0.0576,0.000105,84.581,0.0459,22,0
-rise against,give it all,0.587,0.942,0.389,0.000354,0.00172,103.061,0.0727,1,0
-roy orbison,in dreams,0.495,0.435,0.71,0.67,0.00038,108.189,0.0286,1,0
-scorpions,wind of change,0.429,0.63,0.211,0.078,0.0,151.627,0.0329,1,0
-sean paul,temperature,0.951,0.6,0.822,0.106,0.0,125.04,0.0685,1,0
-sia,cheap thrills,0.628,0.698,0.732,0.0472,0.00143,89.976,0.105,2,0
-sia,snowman,0.716,0.511,0.324,0.483,0.0,104.964,0.0332,1,0
-silverchair,tomorrow,0.292,0.714,0.462,0.000658,0.000109,151.412,0.0316,1,1
-sneaker pimps,6 underground,0.587,0.678,0.429,0.0319,0.16,169.947,0.0524,5,0
-snow patrol,chasing cars,0.56,0.595,0.144,0.199,6.47e-05,104.011,0.0274,1,0
-sophie ellis-bextor,murder on the dancefloor,0.735,0.848,0.864,0.00312,1.15e-05,117.317,0.0308,1,0
-soundgarden,black hole sun,0.351,0.827,0.145,0.000222,0.000118,105.463,0.0412,3,1
-soundgarden,blow up the outside world,0.33,0.529,0.148,0.000807,0.214,140.156,0.0358,1,1
-soundgarden,burden in my hand,0.319,0.803,0.589,0.00534,0.0126,183.031,0.0394,1,0
-soundgarden,fell on black days,0.574,0.739,0.514,0.00152,0.000328,101.069,0.0271,10,0
-soundgarden,spoonman,0.258,0.904,0.832,2.2e-05,0.218,186.054,0.0386,3,1
-soundgarden,the day i tried to live,0.472,0.752,0.305,0.000164,0.181,133.248,0.0555,4,0
-stone temple pilots,interstate love song - 2019 remaster,0.215,0.927,0.49,0.000273,0.00661,170.814,0.0452,1,0
-stone temple pilots,plush,0.416,0.954,0.498,0.0021,0.0,144.724,0.0467,1,0
-stone temple pilots,vasoline - 2019 remaster,0.295,0.977,0.353,0.00147,0.000187,168.672,0.088,1,0
-system of a down,aerials,0.364,0.922,0.227,0.000915,0.0346,79.342,0.0567,7,0
-system of a down,atwa,0.376,0.787,0.371,0.00378,0.0,87.102,0.0394,9,1
-system of a down,b.y.o.b.,0.538,0.981,0.711,0.00662,0.0,101.414,0.14,7,1
-system of a down,chop suey!,0.417,0.934,0.287,0.000278,0.0015,127.066,0.119,11,0
-system of a down,hypnotize,0.274,0.92,0.0397,0.0303,0.000412,154.016,0.0489,4,0
-system of a down,lonely day,0.47,0.796,0.215,0.362,1.1e-06,113.108,0.0336,2,0
-system of a down,radio/video,0.358,0.921,0.476,0.171,7.64e-06,139.256,0.0695,6,0
-system of a down,spiders,0.46,0.54,0.0506,0.0324,0.0168,137.855,0.0381,2,0
-system of a down,sugar,0.451,0.889,0.586,0.00167,0.00215,131.073,0.261,3,0
-system of a down,toxicity,0.413,0.873,0.48,0.000264,0.00249,116.68,0.0536,9,0
-system of a down,vicinity of obscenity,0.546,0.957,0.514,0.0533,3.37e-06,109.775,0.164,2,0
-system of a down,violent pornography,0.459,0.958,0.586,0.0283,0.0,142.707,0.0877,6,0
-talking heads,once in a lifetime - 2005 remaster,0.644,0.919,0.87,0.179,0.135,117.458,0.0561,2,0
-talking heads,psycho killer,0.721,0.521,0.942,0.0707,0.00552,123.118,0.0612,2,0
-tash sultana,jungle,0.589,0.699,0.496,0.285,8.11e-05,145.997,0.0291,3,0
-tenacious d,classico,0.738,0.531,0.919,0.907,1.07e-05,170.007,0.14,1,0
-tenacious d,kickapoo,0.501,0.796,0.582,0.107,0.000974,130.719,0.104,1,0
-the beach boys,kokomo,0.682,0.635,0.927,0.00863,0.0,115.584,0.0346,1,0
-the beatles,eleanor rigby,0.521,0.301,0.621,0.836,0.0,137.382,0.0356,1,1
-the beatles,strawberry fields forever,0.383,0.558,0.207,0.0303,3.98e-05,102.508,0.0514,1,1
-the blaze,territory,0.563,0.44,0.213,0.286,0.683,120.009,0.0822,1,0
-the boomtown rats,i don't like mondays,0.464,0.461,0.476,0.717,0.0,143.645,0.0394,1,0
-the chemical brothers,believe,0.721,0.579,0.583,0.0018,0.115,132.105,0.0498,1,0
-the doobie brothers,listen to the music,0.645,0.598,0.913,0.221,3.53e-06,105.929,0.0335,1,0
-the fratellis,she's not gone yet but she's leaving,0.649,0.842,0.849,0.00109,6.7e-06,120.085,0.0352,1,1
-the herbaliser,funny?,0.928,0.6,0.344,0.883,0.628,105.016,0.0568,4,0
-the herbaliser,the sensual woman,0.781,0.18,0.189,0.0475,0.923,89.994,0.0719,4,0
-the herbaliser,wall crawling giant insect breaks,0.834,0.905,0.836,0.0939,0.00227,110.004,0.0966,4,0
-the human league,don't you want me,0.744,0.686,0.894,0.101,0.0,117.483,0.0437,1,0
-the prodigy,breathe,0.673,0.808,0.303,0.0121,0.878,130.041,0.0491,1,0
-the prodigy,diesel power,0.725,0.877,0.0976,0.068,3.65e-05,105.921,0.0646,1,0
-the raconteurs,blue veins,0.373,0.434,0.0793,0.193,0.00554,130.702,0.0449,2,1
-the raconteurs,salute your solution,0.266,0.946,0.498,0.00781,2.73e-06,168.465,0.171,4,0
-the raconteurs,"steady, as she goes",0.525,0.578,0.537,0.0132,0.00916,123.696,0.12,10,0
-the rolling stones,beast of burden - remastered 1994,0.784,0.879,0.893,0.39,0.000848,100.622,0.0308,2,1
-the rolling stones,gimme shelter,0.634,0.63,0.489,0.447,0.0374,118.642,0.031,1,1
-the script,hall of fame,0.511,0.872,0.511,0.0807,0.0,84.953,0.0491,1,0
-the smashing pumpkins,bullet with butterfly wings - remastered 2012,0.395,0.751,0.455,5.71e-05,0.838,121.561,0.0618,3,1
-the smashing pumpkins,"tonight, tonight - remastered 2012",0.277,0.67,0.217,6.28e-05,0.751,148.342,0.0376,1,0
-the smashing pumpkins,zero - remastered 2012,0.438,0.728,0.701,3.49e-05,0.57,128.04,0.0458,5,0
-the strokes,life is simple in the moonlight,0.515,0.696,0.513,0.0126,0.000345,134.893,0.0313,1,0
-the strokes,machu picchu,0.695,0.817,0.874,0.0132,0.097,105.014,0.0659,1,0
-the strokes,reptilia,0.489,0.649,0.77,0.000603,0.713,158.009,0.0336,1,1
-the strokes,taken for a fool,0.569,0.89,0.885,0.00595,0.0112,137.044,0.0559,1,0
-the strokes,under cover of darkness,0.35,0.775,0.588,0.00433,0.283,199.866,0.054,1,0
-the verve,bitter sweet symphony,0.356,0.917,0.518,0.0335,0.0,171.176,0.0479,2,0
-the weeknd,save your tears,0.68,0.826,0.644,0.0212,1.24e-05,118.051,0.0309,1,1
-the white stripes,apple blossom,0.537,0.454,0.626,0.65,0.000154,128.193,0.0551,3,0
-the white stripes,ball and biscuit,0.506,0.655,0.612,0.0278,0.173,77.406,0.164,20,0
-the white stripes,blue orchid,0.481,0.645,0.612,0.0863,6.2e-06,151.307,0.318,12,0
-the white stripes,fell in love with a girl,0.356,0.982,0.299,0.713,0.00145,95.754,0.112,6,0
-the white stripes,icky thump,0.417,0.63,0.341,0.0209,0.0134,94.214,0.0898,7,0
-the white stripes,little room,0.456,0.738,0.705,0.00925,0.0,173.406,0.0434,1,1
-the white stripes,seven nation army,0.743,0.446,0.278,0.0039,0.118,123.596,0.0683,6,0
-the white stripes,st. james infirmary blues,0.585,0.857,0.624,0.58,0.601,118.861,0.0393,1,0
-the white stripes,the hardest button to button,0.694,0.515,0.566,0.00666,0.622,128.246,0.0736,26,0
-the white stripes,we're going to be friends,0.534,0.441,0.439,0.661,0.0,97.009,0.0303,3,0
-the who,baba o'riley,0.489,0.724,0.15,0.313,0.185,117.292,0.0352,10,1
-the who,behind blue eyes,0.394,0.622,0.342,0.213,4.45e-05,126.844,0.0336,8,0
-the who,pinball wizard,0.543,0.715,0.468,0.0192,0.0,124.011,0.0356,2,0
-the who,who are you,0.651,0.648,0.49,0.262,0.0042,156.372,0.0501,3,0
-thievery corporation,lebanese blonde,0.812,0.831,0.648,0.246,0.789,92.011,0.0463,1,0
-thin lizzy,the boys are back in town,0.457,0.87,0.694,0.292,1.67e-06,81.095,0.0711,1,0
-tool,forty six & 2,0.375,0.682,0.396,0.00152,0.598,159.23,0.0364,12,0
-tool,lateralus,0.387,0.677,0.371,0.00108,0.871,172.812,0.084,21,0
-tool,pneuma,0.415,0.53,0.0586,0.00209,0.75,114.174,0.0314,24,1
-tool,right in two,0.44,0.568,0.248,0.00442,0.84,118.389,0.0293,4,0
-tool,schism,0.567,0.714,0.191,0.0012,0.417,107.441,0.0302,23,1
-tool,sober,0.385,0.673,0.187,0.000183,0.149,149.271,0.0329,4,0
-tool,the pot,0.469,0.79,0.466,0.000148,0.372,107.45,0.0391,15,0
-tool,vicarious,0.506,0.877,0.302,5.16e-05,0.776,114.589,0.032,17,1
-tricky,bad things,0.372,0.434,0.0634,0.692,0.866,97.466,0.0443,1,0
-tricky,ghetto youth,0.914,0.775,0.544,0.0532,0.0,112.338,0.201,1,0
-unknown mortal orchestra,hunnybee,0.956,0.377,0.566,0.566,0.414,119.993,0.0804,3,0
-van morrison,brown eyed girl,0.491,0.583,0.908,0.185,0.0,150.566,0.0376,1,0
-vance joy,riptide,0.484,0.731,0.51,0.431,0.0,101.654,0.0379,1,1
-videoclub,roi,0.704,0.467,0.29,0.559,0.00117,107.993,0.0342,1,1
-wave to earth,seasons,0.354,0.277,0.163,0.782,0.0585,60.037,0.0271,1,0
-weezer,buddy holly,0.555,0.921,0.775,0.00264,0.000205,121.141,0.0369,2,0
-weezer,my name is jonas,0.261,0.947,0.552,0.000193,0.00326,185.942,0.0487,3,0
-weezer,only in dreams,0.507,0.535,0.403,0.00215,0.495,78.049,0.0261,2,0
-weezer,pork and beans,0.599,0.626,0.708,0.0108,8.8e-06,119.837,0.0339,1,0
-weezer,say it ain't so,0.635,0.551,0.451,0.00743,1.82e-05,151.779,0.0354,2,0
-weezer,the world has turned and left me here,0.455,0.918,0.56,0.000399,0.0134,99.078,0.0352,1,0
-weezer,undone - the sweater song,0.457,0.618,0.579,0.00114,0.00257,80.184,0.0296,1,0
-wham!,last christmas,0.735,0.478,0.947,0.189,2.48e-06,107.682,0.0293,1,0
+clean_artist,clean_track,danceability,energy,valence,acousticness,instrumentalness,tempo,speechiness,play_count
+a família,brinquedo assassino,0.771,0.746,0.502,0.0902,0.0,148.054,0.262,2
+abba,super trouper,0.724,0.724,0.927,0.294,0.0,117.986,0.0304,1
+adnan sami,tera chehra,0.646,0.562,0.488,0.523,0.0021,100.0,0.0331,1
+air,kelly watch the stars,0.516,0.743,0.226,0.282,0.637,109.837,0.0292,17
+air,la femme d'argent,0.517,0.737,0.558,0.434,0.684,79.82,0.0352,20
+air,le voyage de pénélope,0.505,0.513,0.309,0.557,0.894,129.871,0.031,11
+air,sexy boy,0.437,0.652,0.211,0.0011,0.614,111.888,0.0288,9
+air,talisman,0.564,0.547,0.297,0.0711,0.861,132.935,0.0302,16
+alec benjamin,let me down slowly,0.652,0.557,0.483,0.74,0.0,150.073,0.0318,1
+alice in chains,bleed the freak,0.245,0.749,0.221,0.00252,7.87e-06,118.363,0.0599,2
+alice in chains,dam that river (2022 remaster),0.427,0.913,0.471,0.00636,0.0,124.419,0.0804,6
+alice in chains,don't follow,0.314,0.37,0.28,0.781,0.139,116.066,0.0286,29
+alice in chains,down in a hole (2022 remaster),0.357,0.795,0.416,0.0134,0.00013,97.171,0.0337,9
+alice in chains,"down in a hole - live at the majestic theatre, brooklyn, ny - april 1996",0.554,0.515,0.432,0.0883,2.7e-05,95.125,0.024,46
+alice in chains,heaven beside you,0.551,0.724,0.559,0.00451,0.000167,111.243,0.032,31
+alice in chains,i stay away,0.174,0.781,0.276,0.0452,0.00346,81.37,0.0406,44
+alice in chains,man in the box,0.355,0.791,0.758,0.00045,0.0,106.392,0.0453,7
+alice in chains,no excuses,0.527,0.838,0.721,0.0206,0.00062,117.454,0.0323,54
+alice in chains,nutshell,0.384,0.561,0.159,0.373,0.253,136.136,0.0296,47
+alice in chains,"nutshell - live at the majestic theatre, brooklyn, ny - april 1996",0.36,0.548,0.244,0.328,0.217,121.801,0.0468,34
+alice in chains,rain when i die (2022 remaster),0.422,0.859,0.203,0.0183,0.000673,120.078,0.0757,11
+alice in chains,rooster (2022 remaster),0.271,0.551,0.2,0.0307,0.000581,143.899,0.0272,9
+alice in chains,rotten apple,0.31,0.637,0.426,0.215,0.116,147.4,0.037,65
+alice in chains,them bones (2022 remaster),0.159,0.946,0.309,0.0235,8.06e-06,165.014,0.0629,10
+alice in chains,we die young,0.486,0.938,0.525,1.79e-05,0.000103,125.816,0.0704,1
+alice in chains,would? (2022 remaster),0.305,0.833,0.586,0.000327,2.36e-05,100.675,0.0398,5
+america,a horse with no name,0.653,0.507,0.831,0.687,0.0147,123.188,0.0534,1
+aphex twin,#3,0.167,0.071,0.0613,0.911,0.855,143.315,0.041,1
+aphex twin,i,0.183,0.0896,0.0326,0.989,0.899,76.923,0.0486,1
+aphex twin,qkthr,0.463,0.0223,0.0571,0.993,0.768,78.66,0.046,2
+aphex twin,tha,0.599,0.406,0.326,0.822,0.933,134.762,0.0368,1
+aphex twin,windowlicker,0.698,0.789,0.492,0.132,0.0091,123.016,0.163,1
+aphex twin,xtal,0.51,0.505,0.318,0.342,0.96,114.532,0.0344,1
+aphrodite's child,the four horsemen,0.294,0.653,0.185,0.0612,0.000689,95.011,0.0504,1
+arctic monkeys,505,0.526,0.866,0.248,0.00287,7.78e-05,140.266,0.0568,24
+arctic monkeys,a certain romance,0.455,0.881,0.201,0.000566,6.06e-05,137.949,0.0401,9
+arctic monkeys,american sports,0.372,0.865,0.594,0.00169,0.00293,176.689,0.0513,29
+arctic monkeys,arabella,0.579,0.558,0.506,0.0202,1.26e-06,179.949,0.0895,40
+arctic monkeys,balaclava,0.414,0.811,0.762,0.00133,0.000129,137.617,0.0919,13
+arctic monkeys,batphone,0.675,0.681,0.675,0.312,0.0,106.521,0.0356,29
+arctic monkeys,big ideas,0.548,0.328,0.343,0.663,0.00365,67.023,0.0296,24
+arctic monkeys,bigger boys and stolen sweethearts,0.494,0.587,0.605,0.00518,0.0,131.774,0.0324,6
+arctic monkeys,black treacle,0.343,0.89,0.525,0.000821,0.0,100.061,0.0655,2
+arctic monkeys,body paint,0.56,0.313,0.254,0.567,0.0,144.745,0.0627,86
+arctic monkeys,brianstorm,0.42,0.974,0.463,8.15e-05,0.00155,165.182,0.191,13
+arctic monkeys,cigarette smoker fiona,0.372,0.841,0.322,0.000654,2.36e-05,143.283,0.206,2
+arctic monkeys,cornerstone,0.287,0.721,0.763,0.00764,0.0,169.252,0.0387,17
+arctic monkeys,crying lightning,0.498,0.885,0.67,0.0148,0.00041,106.719,0.0461,27
+arctic monkeys,d is for dangerous,0.555,0.925,0.77,1.09e-05,0.000161,145.061,0.0362,13
+arctic monkeys,dance little liar,0.538,0.607,0.543,0.0586,0.769,100.158,0.0352,18
+arctic monkeys,dancing shoes,0.522,0.889,0.852,0.00328,0.0,144.499,0.0461,13
+arctic monkeys,dangerous animals,0.34,0.922,0.532,0.0129,2.39e-06,125.363,0.18,9
+arctic monkeys,despair in the departure lounge,0.316,0.306,0.284,0.676,0.0025,85.255,0.0411,2
+arctic monkeys,do i wanna know?,0.548,0.532,0.405,0.186,0.000263,85.03,0.0323,49
+arctic monkeys,do me a favour,0.469,0.738,0.624,0.00013,0.0577,180.15,0.0619,25
+arctic monkeys,don't sit down 'cause i've moved your chair,0.434,0.912,0.315,0.0191,0.278,119.729,0.0451,12
+arctic monkeys,fake tales of san francisco,0.454,0.778,0.704,0.00998,0.0,127.158,0.0449,14
+arctic monkeys,fire and the thud,0.566,0.61,0.406,0.165,0.006,114.904,0.0388,10
+arctic monkeys,fireside,0.538,0.953,0.74,0.0234,0.00126,100.033,0.056,46
+arctic monkeys,fluorescent adolescent,0.654,0.828,0.79,0.00146,0.000144,112.056,0.0281,27
+arctic monkeys,four out of five,0.601,0.863,0.676,0.0626,0.0,130.189,0.0685,88
+arctic monkeys,from the ritz to the rubble,0.216,0.882,0.656,0.00147,0.0,189.286,0.0439,8
+arctic monkeys,golden trunks,0.492,0.564,0.0896,0.129,1.73e-05,92.544,0.0278,29
+arctic monkeys,hello you,0.394,0.452,0.653,0.276,0.00998,169.298,0.0321,42
+arctic monkeys,i ain’t quite where i think i am,0.544,0.337,0.667,0.357,6.34e-05,192.685,0.0653,25
+arctic monkeys,i bet you look good on the dancefloor,0.535,0.948,0.778,0.00225,0.0,103.183,0.0356,14
+arctic monkeys,i wanna be yours,0.464,0.417,0.479,0.136,0.022,67.528,0.0256,41
+arctic monkeys,i want it all,0.499,0.81,0.288,0.000637,0.0748,131.052,0.0347,48
+arctic monkeys,"if you were there, beware",0.328,0.805,0.264,0.000938,0.048,135.546,0.0383,14
+arctic monkeys,jet skis on the moat,0.651,0.244,0.395,0.856,0.00165,149.759,0.0544,25
+arctic monkeys,knee socks,0.665,0.542,0.587,0.123,0.00291,97.975,0.033,51
+arctic monkeys,love is a laserquest,0.349,0.662,0.554,0.00197,0.908,169.926,0.0402,1
+arctic monkeys,mad sounds,0.532,0.462,0.485,0.279,0.196,80.001,0.03,35
+arctic monkeys,mardy bum,0.634,0.599,0.312,0.0288,0.0,112.215,0.0365,10
+arctic monkeys,mr schwartz,0.569,0.335,0.388,0.802,0.018,127.587,0.0322,25
+arctic monkeys,my propeller,0.415,0.657,0.69,0.052,0.0552,115.752,0.0295,10
+arctic monkeys,no buses,0.481,0.524,0.425,0.155,0.000147,101.883,0.0369,1
+arctic monkeys,no. 1 party anthem,0.505,0.698,0.599,0.33,0.0887,115.013,0.0297,35
+arctic monkeys,old yellow bricks,0.66,0.837,0.757,0.000147,6.62e-06,135.158,0.0682,12
+arctic monkeys,one for the road,0.415,0.668,0.842,0.212,0.0615,180.048,0.036,50
+arctic monkeys,perfect sense,0.52,0.478,0.545,0.61,0.00122,82.932,0.0276,23
+arctic monkeys,perhaps vampires is a bit strong but…,0.371,0.914,0.394,0.000293,8.75e-05,134.982,0.081,9
+arctic monkeys,piledriver waltz,0.443,0.865,0.474,0.00724,0.000116,110.008,0.0391,3
+arctic monkeys,potion approaching,0.421,0.758,0.767,0.0062,0.0673,103.659,0.0429,7
+arctic monkeys,pretty visitors,0.244,0.896,0.142,0.0614,2.83e-05,83.354,0.464,9
+arctic monkeys,r u mine?,0.288,0.758,0.619,0.00616,0.0,97.094,0.0371,48
+arctic monkeys,reckless serenade,0.585,0.694,0.785,0.00037,0.0144,127.966,0.0392,2
+arctic monkeys,red light indicates doors are secured,0.622,0.846,0.914,0.00316,0.0,110.683,0.0311,16
+arctic monkeys,red right hand,0.422,0.819,0.598,0.000484,0.0412,139.784,0.051,4
+arctic monkeys,riot van,0.593,0.333,0.258,0.358,0.0,103.537,0.046,8
+arctic monkeys,science fiction,0.542,0.766,0.643,0.0295,0.0802,88.062,0.0282,28
+arctic monkeys,sculptures of anything goes,0.591,0.309,0.257,0.704,0.0122,71.573,0.0287,73
+arctic monkeys,secret door,0.323,0.806,0.548,0.0314,1.11e-05,124.615,0.0769,9
+arctic monkeys,she looks like fun,0.514,0.773,0.445,0.00944,0.00326,103.943,0.0388,27
+arctic monkeys,she's thunderstorms,0.505,0.898,0.731,0.000518,0.00236,118.929,0.0329,2
+arctic monkeys,snap out of it,0.728,0.638,0.872,0.249,0.0,130.014,0.0336,47
+arctic monkeys,star treatment,0.581,0.767,0.673,0.243,0.00131,120.07,0.0527,71
+arctic monkeys,still take you home,0.599,0.946,0.653,0.000669,0.0,108.934,0.0378,10
+arctic monkeys,stop the world i wanna get off with you,0.661,0.73,0.53,0.0537,3.44e-05,95.027,0.0574,24
+arctic monkeys,suck it and see,0.339,0.932,0.586,0.00105,0.114,128.291,0.057,2
+arctic monkeys,teddy picker,0.637,0.963,0.823,0.000286,0.000889,150.1,0.0882,27
+arctic monkeys,that's where you're wrong,0.481,0.883,0.46,0.000679,0.558,135.937,0.0638,1
+arctic monkeys,the bad thing,0.55,0.952,0.538,0.00103,0.0,111.066,0.075,13
+arctic monkeys,the car,0.428,0.365,0.236,0.78,0.0033,94.033,0.0276,25
+arctic monkeys,the jeweller's hands,0.51,0.8,0.391,0.137,0.0834,96.935,0.0488,10
+arctic monkeys,the ultracheese,0.476,0.555,0.426,0.624,3.98e-05,131.497,0.0404,28
+arctic monkeys,the view from the afternoon,0.387,0.922,0.417,0.00487,0.0,146.478,0.0674,18
+arctic monkeys,the world's first ever monster truck front flip,0.602,0.601,0.553,0.346,0.349,145.075,0.0303,30
+arctic monkeys,there’d better be a mirrorball,0.513,0.369,0.311,0.634,0.0139,72.062,0.0307,82
+arctic monkeys,this house is a circus,0.476,0.844,0.658,1.81e-05,0.00196,155.322,0.0431,19
+arctic monkeys,too much to ask,0.724,0.757,0.878,0.00777,0.000154,109.98,0.0274,11
+arctic monkeys,tranquility base hotel & casino,0.584,0.835,0.781,0.0411,0.0147,142.2,0.0297,67
+arctic monkeys,when the sun goes down,0.348,0.875,0.407,0.0341,0.0,169.152,0.199,7
+arctic monkeys,who the fuck are arctic monkeys?,0.348,0.896,0.572,0.000216,0.0173,132.577,0.0397,2
+arctic monkeys,why'd you only call me when you're high?,0.691,0.631,0.8,0.0483,1.13e-05,92.004,0.0368,44
+arctic monkeys,you probably couldn't see for the lights but you were staring straight at me,0.58,0.972,0.926,0.00384,0.0,105.492,0.0589,10
+arctic monkeys,you're so dark,0.484,0.649,0.838,0.258,0.0116,151.537,0.0561,32
+autechre,bike,0.751,0.61,0.0375,0.0139,0.913,125.237,0.043,1
+avenged sevenfold,dear god,0.472,0.772,0.6,0.00658,5.65e-05,139.993,0.0316,1
+avicii,hey brother,0.545,0.78,0.458,0.0309,4.64e-05,125.014,0.0436,1
+avicii,waiting for love,0.579,0.736,0.613,0.31,0.0,127.999,0.0527,1
+bag raiders,shooting stars,0.636,0.72,0.425,0.0893,0.0178,124.944,0.0432,1
+bicep,glue,0.853,0.798,0.42,0.0158,0.948,129.983,0.068,1
+billy joel,we didn't start the fire,0.712,0.967,0.895,0.0771,0.0,145.024,0.047,1
+blink-182,adam's song,0.52,0.775,0.383,0.034,0.0,136.02,0.0348,1
+blink-182,i miss you,0.652,0.766,0.641,0.000761,6.34e-06,110.011,0.0345,5
+blue öyster cult,(don't fear) the reaper,0.333,0.927,0.385,0.0029,0.000208,141.466,0.0733,2
+bob dylan,blowin' in the wind,0.38,0.0993,0.44,0.914,2.32e-05,174.874,0.0509,1
+candlebox,change,0.638,0.66,0.398,0.00684,0.0,93.042,0.0286,1
+candlemass,solitude,0.229,0.704,0.179,0.000135,0.000384,74.6,0.0342,1
+coldplay,higher power,0.507,0.828,0.489,0.00711,2.44e-05,178.032,0.0449,1
+crazy town,butterfly,0.736,0.811,0.609,0.00132,0.000142,103.502,0.081,6
+cream,white room,0.553,0.576,0.457,0.191,0.00664,109.827,0.0304,1
+creed,one last breath,0.386,0.677,0.195,0.00841,0.00366,126.602,0.0346,1
+creedence clearwater revival,have you ever seen the rain,0.741,0.697,0.774,0.0665,2.35e-05,116.109,0.0277,1
+cyndi lauper,girls just want to have fun,0.71,0.799,0.725,0.22,0.000602,120.372,0.0328,1
+cypress hill,insane in the brain,0.897,0.611,0.769,0.0291,0.186,102.304,0.211,2
+days of the new,"touch, peel and stand",0.568,0.622,0.833,0.0609,2.62e-06,81.935,0.03,1
+derek & the dominos,layla,0.404,0.902,0.497,0.577,0.297,115.669,0.0665,2
+dio,holy diver,0.473,0.783,0.124,0.0125,0.475,91.976,0.0869,2
+dio,rainbow in the dark,0.508,0.912,0.682,7.06e-05,0.403,117.582,0.0368,1
+dj shadow,building steam with a grain of salt,0.613,0.832,0.48,0.388,0.95,164.876,0.0281,6
+dj shadow,midnight in a perfect world,0.664,0.644,0.646,0.531,0.661,79.526,0.0352,5
+dj shadow,organ donor,0.61,0.571,0.909,0.837,0.743,106.185,0.0315,5
+dr. dog,where'd all the time go?,0.454,0.82,0.575,0.132,0.000969,166.303,0.0567,1
+eagles,hotel california - 2013 remaster,0.579,0.508,0.609,0.00574,0.000494,147.125,0.027,16
+eagles,life in the fast lane - 2013 remaster,0.667,0.755,0.883,0.0966,6.94e-05,109.535,0.069,17
+eagles,one of these nights - 2013 remaster,0.655,0.606,0.765,0.0603,0.0789,110.061,0.0285,17
+eagles,take it easy - 2013 remaster,0.575,0.67,0.74,0.343,4.95e-06,139.191,0.0318,17
+ed sheeran,bad habits,0.807,0.893,0.537,0.0451,2.79e-05,126.011,0.0347,1
+ed sheeran,shape of you,0.825,0.652,0.931,0.581,0.0,95.977,0.0802,1
+elvis presley,burning love,0.66,0.748,0.972,0.0993,0.00585,143.549,0.0284,1
+erasure,a little respect,0.58,0.812,0.655,0.0529,9.36e-06,114.085,0.0256,1
+europe,the final countdown,0.529,0.843,0.188,0.0628,0.000827,117.662,0.0616,1
+fifth harmony,worth it,0.858,0.78,0.602,0.0478,5.72e-05,99.984,0.0738,1
+foo fighters,all my life,0.577,0.604,0.637,0.000218,0.000579,167.719,0.0495,1
+foo fighters,everlong,0.413,0.881,0.364,5.99e-05,0.000308,158.066,0.0367,1
+funkadelic,can you get to that,0.681,0.897,0.852,0.672,0.0,140.803,0.0874,1
+funkadelic,maggot brain,0.305,0.372,0.125,0.499,0.723,131.245,0.0432,4
+gesaffelstein,pursuit,0.682,0.934,0.0708,0.0619,0.926,108.982,0.0741,1
+ghost,call me little sunshine,0.566,0.871,0.41,0.000674,0.00144,88.012,0.0311,12
+ghost,cirice,0.555,0.798,0.284,0.00254,1.5e-05,89.987,0.0279,16
+ghost,dance macabre,0.619,0.696,0.727,1.93e-05,0.00555,125.984,0.0315,8
+ghost,darkness at the heart of my love,0.54,0.719,0.238,0.00833,0.000158,122.043,0.0284,13
+ghost,faith,0.355,0.823,0.229,0.000519,0.072,183.859,0.0517,10
+ghost,imperium,0.307,0.473,0.203,0.000524,0.961,74.842,0.0316,7
+ghost,kiss the go-goat,0.469,0.851,0.549,0.000213,7.86e-06,130.053,0.0547,14
+ghost,life eternal,0.443,0.612,0.204,0.0188,1e-06,155.961,0.0275,8
+ghost,mary on a cross,0.466,0.9,0.561,0.000235,0.00104,130.02,0.0447,8
+ghost,spillways,0.575,0.868,0.804,0.000207,0.00294,128.069,0.0319,13
+ghost,square hammer,0.529,0.903,0.746,3.31e-05,0.182,129.986,0.0483,11
+ghost,year zero,0.469,0.705,0.137,0.0304,0.0155,122.025,0.0458,3
+good charlotte,the anthem,0.494,0.939,0.893,0.00666,0.0,177.751,0.126,1
+gorillaz,clint eastwood,0.663,0.694,0.525,0.0253,0.0,167.953,0.171,1
+green day,basket case,0.441,0.943,0.781,0.00293,8.27e-06,85.05,0.0602,1
+green day,good riddance (time of your life),0.449,0.432,0.645,0.183,0.0,94.281,0.0306,1
+hans zimmer,no time for caution,0.262,0.224,0.0388,0.0545,0.95,119.715,0.0463,1
+helmet,unsung,0.311,0.814,0.731,6.74e-05,0.00534,160.303,0.0545,2
+hozier,take me to church,0.566,0.664,0.437,0.634,0.0,128.945,0.0464,1
+ikebe shakedown,dram,0.595,0.765,0.736,0.056,0.851,149.58,0.0574,1
+incubus,drive,0.645,0.792,0.666,0.0562,0.0121,90.565,0.036,1
+jack white,lazaretto,0.381,0.838,0.581,0.0046,3.77e-05,118.214,0.0709,3
+jim croce,time in a bottle,0.533,0.155,0.592,0.888,0.0,134.019,0.0376,1
+jimi hendrix,jungle,0.497,0.499,0.516,0.0558,0.73,174.608,0.056,1
+john frusciante,song to sing when i'm lonely,0.629,0.673,0.419,0.294,0.0109,114.243,0.0262,7
+john frusciante,the past recedes,0.381,0.334,0.171,0.202,0.000203,102.632,0.0271,15
+john frusciante,the will to death,0.498,0.113,0.296,0.691,0.000287,168.383,0.0333,7
+john mayer,all i want is to be with you,0.522,0.426,0.304,0.106,0.674,93.049,0.0242,22
+john mayer,carry me away,0.677,0.713,0.744,0.0117,0.15,119.997,0.0288,22
+john mayer,daughters,0.674,0.413,0.503,0.836,1.95e-05,124.893,0.0274,1
+john mayer,dreaming with a broken heart,0.61,0.349,0.155,0.554,0.0099,136.012,0.0301,5
+john mayer,edge of desire,0.606,0.441,0.455,0.326,0.0128,66.443,0.0272,16
+john mayer,"free fallin' - live at the nokia theatre, los angeles, ca - december 2007",0.315,0.296,0.435,0.771,0.0,173.509,0.0315,7
+john mayer,gravity,0.753,0.326,0.237,0.731,0.00131,123.799,0.0342,29
+john mayer,half of my heart,0.681,0.593,0.731,0.435,0.000117,115.058,0.0251,2
+john mayer,heartbreak warfare,0.624,0.554,0.311,0.191,0.00131,97.031,0.0225,11
+john mayer,i guess i just feel like,0.548,0.483,0.166,0.515,0.0674,159.952,0.0268,22
+john mayer,in the blood,0.546,0.655,0.518,0.386,1.04e-05,80.007,0.0255,2
+john mayer,love on the weekend,0.718,0.583,0.422,0.623,0.000681,119.971,0.0288,3
+john mayer,neon,0.699,0.77,0.589,0.0181,0.000138,101.984,0.036,5
+john mayer,never on the day you leave,0.536,0.355,0.22,0.733,1.22e-05,139.888,0.0259,2
+john mayer,rosie,0.758,0.465,0.758,0.489,5.13e-05,138.9,0.0374,2
+john mayer,shot in the dark,0.741,0.556,0.587,0.0629,0.041,122.008,0.0266,23
+john mayer,shouldn't matter but it does,0.549,0.324,0.268,0.457,2.2e-06,80.888,0.0285,22
+john mayer,slow dancing in a burning room,0.667,0.361,0.29,0.575,0.00506,134.018,0.0273,36
+john mayer,stop this train,0.619,0.437,0.408,0.465,0.00619,89.508,0.0314,36
+john mayer,the heart of life,0.495,0.238,0.357,0.958,0.0118,175.958,0.03,31
+john mayer,til the right one comes,0.807,0.563,0.925,0.242,0.00322,112.985,0.0287,22
+john mayer,waiting on the world to change,0.578,0.756,0.663,0.157,0.000232,176.739,0.115,35
+john mayer,who says,0.584,0.509,0.367,0.267,0.00252,90.457,0.0287,6
+john mayer,why georgia,0.608,0.639,0.369,0.0208,5.94e-05,96.915,0.0246,1
+john mayer,why you no love me,0.635,0.562,0.501,0.387,0.000366,97.988,0.0223,22
+john mayer,you're gonna live forever in me,0.542,0.131,0.319,0.983,0.00544,136.161,0.0316,13
+john mayer,your body is a wonderland,0.647,0.729,0.687,0.0206,0.0489,94.01,0.0236,2
+judas priest,you've got another thing coming,0.519,0.833,0.532,0.00572,4.33e-06,138.225,0.0496,1
+kavinsky,nightcall,0.532,0.874,0.361,0.00842,0.012,91.038,0.0482,3
+korn,freak on a leash,0.353,0.898,0.525,2.23e-05,0.105,103.293,0.052,3
+kt tunstall,suddenly i see,0.603,0.78,0.693,0.139,0.0,100.499,0.0438,1
+kyuss,green machine,0.497,0.947,0.588,8.21e-05,0.000693,90.371,0.0391,1
+lady gaga,bad romance,0.695,0.921,0.714,0.00314,5.26e-05,119.007,0.0363,1
+lamb,closer,0.863,0.651,0.869,0.00417,0.143,134.039,0.0907,4
+led zeppelin,the rain song - remaster,0.336,0.318,0.24,0.317,0.0716,79.66,0.0263,1
+limp bizkit,break stuff,0.432,0.884,0.624,0.0127,0.000527,108.948,0.13,7
+limp bizkit,nookie,0.573,0.929,0.284,0.00218,0.0723,97.57,0.082,3
+limp bizkit,take a look around,0.425,0.852,0.512,0.0175,0.306,101.968,0.046,2
+lou reed,walk on the wild side,0.575,0.318,0.385,0.683,0.000202,104.522,0.109,1
+lynyrd skynyrd,free bird,0.249,0.834,0.338,0.0738,9.48e-05,118.223,0.0577,2
+lynyrd skynyrd,simple man,0.422,0.752,0.403,0.0366,0.000119,120.471,0.0449,1
+mac demarco,chamber of reflection,0.538,0.557,0.506,0.262,0.914,131.03,0.0914,1
+mad season,river of deceit,0.455,0.29,0.169,0.0614,0.00225,88.523,0.0288,61
+mad season,wake up,0.339,0.276,0.308,0.141,0.00906,83.181,0.0285,71
+marina,bubblegum bitch,0.495,0.856,0.609,0.000219,0.0,158.024,0.0311,3
+marina,how to be a heartbreaker,0.69,0.897,0.849,0.0142,0.0,140.05,0.0506,2
+marina,primadonna,0.66,0.689,0.427,0.0884,0.0,127.98,0.0337,2
+massive attack,be thankful for what you've got - 2012 mix/master,0.821,0.528,0.345,0.117,0.0702,92.128,0.0463,55
+massive attack,blue lines - 2012 mix/master,0.855,0.496,0.947,0.0778,0.451,95.494,0.0824,55
+massive attack,hymn of the big wheel,0.404,0.36,0.0918,0.173,0.000628,86.223,0.0575,2
+massive attack,karmacoma,0.801,0.536,0.667,0.00545,0.183,141.068,0.224,1
+massive attack,safe from harm - 2012 mix/master,0.677,0.83,0.842,0.0438,0.312,82.274,0.0469,60
+massive attack,teardrop,0.615,0.419,0.216,0.0173,0.505,76.996,0.0396,1
+massive attack,unfinished sympathy - 2012 mix/master,0.592,0.835,0.703,0.0393,0.209,114.436,0.032,39
+mastodon,all the heavy lifting,0.227,0.975,0.264,2.82e-06,0.118,147.172,0.202,1
+mastodon,black tongue,0.216,0.969,0.201,3.36e-06,0.608,146.864,0.145,3
+mastodon,blasteroid,0.313,0.968,0.315,3.18e-06,0.0563,95.937,0.0957,2
+mastodon,curl of the burl,0.459,0.982,0.161,0.000547,0.00131,112.04,0.134,5
+mastodon,octopus has no friends,0.106,0.98,0.108,2.71e-05,0.0173,50.893,0.332,1
+mastodon,the hunter,0.418,0.751,0.0912,2.03e-05,0.829,118.01,0.0318,1
+mazzy star,fade into you,0.42,0.33,0.175,0.245,0.000679,157.143,0.0275,1
+metallica,battery,0.481,0.928,0.427,0.00022,0.558,96.699,0.0672,2
+metallica,enter sandman,0.577,0.828,0.604,0.00213,0.0114,123.257,0.0298,2
+metallica,hardwired,0.128,0.991,0.53,1.11e-05,0.00362,186.124,0.0582,1
+metallica,master of puppets,0.543,0.836,0.56,0.000647,0.431,105.173,0.0353,1
+metallica,one,0.437,0.695,0.413,0.00111,0.0857,102.178,0.0617,4
+metallica,sad but true,0.633,0.846,0.448,0.000819,0.00139,89.23,0.0337,1
+metallica,the day that never comes,0.334,0.982,0.501,9.11e-05,0.149,126.883,0.0619,2
+metallica,the unforgiven,0.54,0.584,0.244,0.0108,0.00296,139.261,0.0254,1
+metallica,turn the page,0.426,0.813,0.228,1.94e-05,0.022,149.013,0.0318,1
+metallica,wherever i may roam,0.55,0.824,0.332,0.000362,0.00115,131.387,0.0347,1
+metallica,whiplash - remastered,0.384,0.916,0.192,0.000611,0.422,158.042,0.0983,1
+metallica,whiskey in the jar,0.511,0.97,0.566,5.6e-06,0.00136,132.986,0.0414,1
+mgmt,little dark age,0.705,0.712,0.62,0.0102,0.000855,97.512,0.0385,1
+michael jackson,you are not alone,0.651,0.402,0.258,0.639,7.73e-05,119.873,0.028,1
+moderat,therapy,0.657,0.63,0.106,0.149,0.834,110.008,0.0449,1
+morcheeba,big calm,0.345,0.809,0.323,0.0467,0.723,150.234,0.106,20
+morcheeba,blindfold,0.572,0.738,0.215,0.0281,0.0274,161.949,0.0348,52
+morcheeba,killer hippie - bad vibrations mix,0.653,0.598,0.239,0.136,0.941,172.087,0.11,10
+morcheeba,let me see,0.745,0.782,0.604,0.0979,0.566,105.993,0.026,24
+morcheeba,part of the process,0.616,0.525,0.402,0.173,0.0125,155.954,0.025,29
+morcheeba,ray payola,0.616,0.79,0.556,0.246,0.733,80.036,0.0787,6
+morcheeba,the sea,0.535,0.761,0.248,0.0165,0.114,149.968,0.0373,59
+morcheeba,trigger hippie,0.628,0.625,0.148,0.0758,0.645,172.154,0.0465,18
+nat king cole,the christmas song (merry christmas to you),0.32,0.21,0.208,0.92,8.01e-05,73.196,0.0345,1
+nickelback,rockstar,0.616,0.91,0.693,0.0459,0.0,144.072,0.0386,1
+nirvana,about a girl,0.409,0.932,0.591,1.87e-05,1.6e-06,131.761,0.0339,19
+nirvana,all apologies,0.446,0.632,0.359,0.0793,0.000266,113.176,0.034,2
+nirvana,blew,0.411,0.882,0.531,5.65e-06,0.0147,129.848,0.0556,4
+nirvana,breed,0.262,0.969,0.263,3.69e-06,0.00213,158.433,0.0894,1
+nirvana,come as you are,0.5,0.824,0.539,0.00016,0.00161,120.125,0.0388,5
+nirvana,dive,0.425,0.837,0.441,2.04e-06,0.366,128.13,0.0318,1
+nirvana,drain you,0.325,0.929,0.198,0.000129,2.22e-06,133.358,0.0695,1
+nirvana,dumb,0.697,0.395,0.876,0.428,0.653,113.589,0.0281,3
+nirvana,floyd the barber,0.443,0.878,0.683,0.000788,0.56,136.567,0.0418,1
+nirvana,frances farmer will have her revenge on seattle,0.482,0.723,0.554,5.66e-05,0.000432,117.051,0.0425,1
+nirvana,heart-shaped box,0.256,0.641,0.382,0.199,0.0329,203.006,0.0552,1
+nirvana,in bloom,0.436,0.876,0.512,3.33e-05,0.000104,157.044,0.0647,1
+nirvana,jesus doesn't want me for a sunbeam,0.51,0.641,0.295,0.0638,3.65e-06,113.646,0.0812,25
+nirvana,lake of fire,0.541,0.618,0.68,0.277,4.02e-05,145.464,0.179,2
+nirvana,lithium,0.678,0.656,0.485,0.00174,0.0,123.207,0.0381,3
+nirvana,lounge act,0.341,0.964,0.459,1.26e-05,0.000103,152.192,0.107,1
+nirvana,love buzz,0.479,0.865,0.77,3.1e-05,0.228,137.902,0.0339,3
+nirvana,oh me,0.538,0.51,0.262,0.726,0.0187,72.471,0.102,2
+nirvana,on a plain,0.428,0.946,0.358,0.000119,3.37e-06,133.26,0.102,16
+nirvana,pennyroyal tea,0.428,0.449,0.196,0.000351,0.000498,113.308,0.0342,2
+nirvana,plateau,0.45,0.501,0.327,0.49,2.51e-05,84.841,0.0712,2
+nirvana,polly,0.618,0.392,0.437,0.683,7.09e-05,115.075,0.0388,5
+nirvana,school,0.21,0.943,0.13,1.15e-05,0.493,164.844,0.0785,1
+nirvana,sliver,0.428,0.684,0.419,1.16e-05,0.000156,141.336,0.0475,1
+nirvana,smells like teen spirit,0.502,0.912,0.72,2.55e-05,0.000173,116.761,0.0564,4
+nirvana,something in the way,0.427,0.201,0.0668,0.745,0.263,105.218,0.0317,3
+nirvana,territorial pissings,0.285,0.979,0.108,0.000144,0.0,182.7,0.175,1
+nirvana,the man who sold the world,0.483,0.753,0.42,0.425,0.000142,115.102,0.0832,2
+nirvana,where did you sleep last night,0.573,0.59,0.364,0.667,0.000397,108.789,0.0557,2
+nirvana,you know you're right,0.289,0.716,0.344,0.0407,0.00123,168.049,0.106,6
+opeth,blackwater park,0.109,0.854,0.134,0.000381,0.228,79.958,0.0871,4
+opeth,bleak,0.247,0.868,0.261,8.19e-05,0.663,97.527,0.0762,20
+opeth,burden,0.313,0.631,0.184,0.0525,0.0833,119.972,0.0395,1
+opeth,closure,0.238,0.597,0.239,0.000791,0.0839,81.825,0.0252,15
+opeth,death whispered a lullaby,0.567,0.445,0.143,0.0207,0.000887,149.985,0.0283,15
+opeth,deliverance,0.283,0.973,0.275,0.000281,0.706,97.303,0.0459,5
+opeth,dirge for november,0.275,0.377,0.123,0.0124,0.658,139.089,0.0409,5
+opeth,ending credits,0.498,0.544,0.326,0.121,0.912,168.214,0.0271,13
+opeth,ghost of perdition,0.292,0.818,0.19,0.000697,0.00192,93.924,0.0413,3
+opeth,hope leaves,0.501,0.48,0.122,0.58,0.079,139.17,0.0249,14
+opeth,in my time of need,0.471,0.604,0.187,0.00161,0.154,137.388,0.0286,24
+opeth,sorceress,0.446,0.7,0.357,0.0236,0.59,160.058,0.0406,8
+opeth,the baying of the hounds,0.283,0.868,0.077,0.00395,0.00201,99.789,0.0653,2
+opeth,the devil's orchard,0.511,0.645,0.278,0.00563,0.664,95.005,0.0368,1
+opeth,the drapery falls,0.103,0.859,0.306,0.000339,0.168,186.415,0.0803,13
+opeth,to rid the disease,0.543,0.487,0.133,0.0171,0.317,133.089,0.0249,13
+opeth,will o the wisp,0.452,0.386,0.25,0.318,0.00217,63.344,0.026,1
+opeth,windowpane,0.328,0.553,0.322,0.156,0.412,159.959,0.0267,32
+pantera,walk,0.428,0.704,0.703,0.000156,0.00223,116.898,0.0808,1
+paramore,misery business,0.513,0.906,0.73,0.00272,8.42e-06,173.0,0.0737,1
+paul mccartney,wonderful christmastime,0.672,0.601,0.763,0.128,0.0,94.699,0.0279,1
+pearl jam,even flow,0.394,0.944,0.265,0.00178,4.54e-06,105.338,0.0761,1
+pink floyd,a pillow of winds,0.361,0.211,0.222,0.452,0.00174,142.625,0.0313,4
+pink floyd,"another brick in the wall, pt. 2",0.693,0.394,0.721,0.0782,0.000694,104.114,0.0428,1
+pink floyd,any colour you like,0.277,0.672,0.505,0.197,0.936,150.587,0.0901,8
+pink floyd,brain damage,0.324,0.265,0.208,0.0732,0.341,133.568,0.0302,8
+pink floyd,breathe (in the air),0.431,0.373,0.253,0.389,0.728,128.153,0.0346,5
+pink floyd,bring the boys back home,0.33,0.283,0.287,0.575,0.0947,157.963,0.061,1
+pink floyd,comfortably numb,0.472,0.366,0.171,0.15,0.312,127.163,0.0286,3
+pink floyd,dogs,0.321,0.479,0.14,0.076,0.00475,109.289,0.05,15
+pink floyd,don't leave me now,0.324,0.11,0.0393,0.0847,0.777,123.534,0.0351,1
+pink floyd,echoes,0.285,0.322,0.138,0.367,0.649,133.577,0.0445,4
+pink floyd,eclipse,0.359,0.577,0.141,0.0589,0.751,68.064,0.0397,5
+pink floyd,fearless,0.381,0.341,0.178,0.161,0.0403,143.756,0.0414,3
+pink floyd,goodbye blue sky,0.638,0.0811,0.0503,0.879,0.00313,109.154,0.0335,2
+pink floyd,have a cigar,0.454,0.65,0.72,0.407,0.0488,120.155,0.0437,10
+pink floyd,hey you,0.587,0.302,0.19,0.223,0.00216,112.46,0.0293,2
+pink floyd,in the flesh,0.292,0.454,0.105,0.371,0.509,150.916,0.0316,1
+pink floyd,in the flesh?,0.316,0.49,0.267,0.416,0.367,152.1,0.0391,2
+pink floyd,is there anybody out there?,0.307,0.0742,0.0394,0.72,0.315,118.682,0.0359,2
+pink floyd,money,0.468,0.536,0.785,0.024,0.00199,126.256,0.144,11
+pink floyd,mother,0.578,0.15,0.12,0.243,0.00707,135.22,0.0334,2
+pink floyd,nobody home,0.251,0.148,0.0569,0.713,0.432,206.542,0.0432,2
+pink floyd,on the run,0.389,0.563,0.134,0.65,0.903,165.393,0.0622,5
+pink floyd,one of my turns,0.315,0.218,0.156,0.305,0.0012,175.868,0.0728,2
+pink floyd,one of these days,0.381,0.508,0.403,0.00613,0.846,103.804,0.0465,5
+pink floyd,pigs (three different ones),0.419,0.575,0.354,0.103,0.459,129.267,0.0897,96
+pink floyd,pigs on the wing 1,0.664,0.171,0.378,0.3,0.001,128.631,0.0452,1
+pink floyd,pigs on the wing 2,0.596,0.17,0.486,0.256,4.39e-05,128.585,0.043,1
+pink floyd,san tropez,0.691,0.324,0.543,0.171,0.0223,121.664,0.0446,3
+pink floyd,sheep,0.28,0.716,0.0618,0.0652,0.52,135.378,0.0983,84
+pink floyd,stop,0.555,0.0193,0.31,0.917,0.00136,76.113,0.0432,1
+pink floyd,the happiest days of our lives,0.74,0.231,0.546,0.551,0.747,103.994,0.0415,1
+pink floyd,the show must go on,0.571,0.198,0.326,0.435,0.125,129.024,0.0294,1
+pink floyd,the thin ice,0.406,0.128,0.191,0.359,0.0019,110.272,0.0349,2
+pink floyd,the trial,0.414,0.37,0.33,0.696,0.000129,76.846,0.0573,1
+pink floyd,time,0.359,0.48,0.355,0.521,0.0043,120.285,0.0841,9
+pink floyd,us and them,0.357,0.302,0.135,0.862,0.559,72.518,0.0303,10
+pink floyd,vera,0.179,0.162,0.0869,0.678,0.022,34.821,0.162,1
+pink floyd,waiting for the worms,0.568,0.413,0.634,0.582,0.00541,75.866,0.0339,1
+pink floyd,welcome to the machine,0.381,0.358,0.036,0.524,0.169,133.271,0.0365,12
+pink floyd,wish you were here,0.481,0.262,0.375,0.735,0.0114,122.861,0.0414,10
+pink floyd,young lust,0.615,0.55,0.549,0.0546,0.19,95.488,0.0349,2
+porcupine tree,lazarus,0.354,0.581,0.338,0.201,0.661,171.961,0.0302,1
+portishead,all mine,0.601,0.656,0.342,0.11,0.0148,60.161,0.0403,5
+portishead,biscuit,0.737,0.455,0.339,0.73,0.055,136.03,0.0805,84
+portishead,glory box,0.51,0.433,0.208,0.175,0.516,119.695,0.036,106
+portishead,glory box - live,0.43,0.705,0.182,0.149,5.08e-05,118.781,0.0339,3
+portishead,it could be sweet,0.668,0.52,0.556,0.698,0.0165,153.963,0.0444,100
+portishead,it's a fire,0.636,0.346,0.27,0.405,0.179,89.098,0.0322,5
+portishead,mysterons,0.657,0.498,0.46,0.405,0.000479,164.25,0.262,120
+portishead,numb,0.326,0.447,0.22,0.056,1.8e-05,78.052,0.0356,91
+portishead,only you,0.581,0.316,0.108,0.334,0.0145,120.349,0.19,11
+portishead,pedestal,0.411,0.464,0.377,0.154,0.721,84.125,0.076,51
+portishead,roads,0.609,0.293,0.193,0.778,0.168,76.11,0.0761,107
+portishead,sour times,0.698,0.633,0.55,0.0508,0.272,94.085,0.0406,124
+portishead,strangers,0.659,0.617,0.25,0.0355,0.16,84.078,0.038,86
+portishead,the rip,0.418,0.486,0.249,0.929,0.461,74.924,0.0318,2
+portishead,undenied,0.241,0.281,0.0321,0.45,6.82e-06,222.605,0.0416,6
+portishead,wandering star,0.639,0.37,0.707,0.504,0.587,80.152,0.0723,105
+queens of the stone age,go with the flow,0.246,0.991,0.415,0.00944,0.0753,159.39,0.087,1
+queens of the stone age,no one knows,0.509,0.584,0.685,0.0368,9.96e-05,170.411,0.057,3
+rage against the machine,guerrilla radio,0.599,0.957,0.489,0.0129,7.06e-05,103.68,0.188,2
+rage against the machine,killing in the name,0.466,0.833,0.661,0.0266,0.0,88.785,0.304,1
+rainbow,catch the rainbow,0.32,0.412,0.282,0.188,0.0339,132.986,0.0316,3
+rainbow,since you been gone,0.733,0.726,0.915,0.379,2.58e-06,120.814,0.0371,1
+rainbow,stargazer,0.166,0.948,0.476,0.00374,0.0131,177.495,0.0631,2
+rainbow,the temple of the king,0.486,0.487,0.373,0.445,1.44e-05,81.972,0.0341,3
+red hot chili peppers,afterlife,0.561,0.866,0.824,0.00623,0.039,93.104,0.0352,5
+red hot chili peppers,bag of grins,0.486,0.812,0.303,0.0106,0.0116,112.648,0.0553,5
+red hot chili peppers,bella,0.492,0.815,0.812,0.00643,2e-05,171.379,0.0487,6
+red hot chili peppers,black summer,0.417,0.682,0.351,0.0267,0.000669,105.542,0.0295,24
+red hot chili peppers,by the way,0.441,0.986,0.184,0.038,0.000781,123.974,0.116,20
+red hot chili peppers,californication,0.592,0.765,0.327,0.0021,0.00154,96.483,0.027,24
+red hot chili peppers,can't stop,0.618,0.938,0.875,0.0179,0.0,91.455,0.0456,17
+red hot chili peppers,carry me home,0.481,0.715,0.222,0.023,0.00213,131.452,0.0661,5
+red hot chili peppers,copperbelly,0.592,0.616,0.492,0.0917,0.0106,129.896,0.0337,5
+red hot chili peppers,dani california,0.556,0.913,0.73,0.0193,8.59e-06,96.184,0.0437,15
+red hot chili peppers,dark necessities,0.7,0.742,0.197,0.0722,0.0199,91.959,0.0716,12
+red hot chili peppers,eddie,0.515,0.809,0.525,0.00455,0.0723,142.011,0.0512,25
+red hot chili peppers,fake as fu@k,0.599,0.777,0.401,0.0355,0.00301,132.252,0.0922,7
+red hot chili peppers,give it away,0.666,0.936,0.776,0.00244,0.086,91.577,0.0476,16
+red hot chili peppers,handful,0.572,0.601,0.552,0.0123,0.000237,142.258,0.0392,5
+red hot chili peppers,in the snow,0.701,0.347,0.443,0.574,0.000107,86.432,0.0298,5
+red hot chili peppers,la la la la la la la la,0.426,0.217,0.179,0.895,9.89e-05,128.22,0.0401,5
+red hot chili peppers,my cigarette,0.732,0.653,0.848,0.0158,0.295,178.058,0.0427,5
+red hot chili peppers,my friends,0.303,0.71,0.327,0.00575,0.00152,162.657,0.0292,27
+red hot chili peppers,nerve flip,0.386,0.936,0.418,0.0121,1.6e-05,176.366,0.0701,6
+red hot chili peppers,otherside,0.458,0.795,0.513,0.00316,0.000202,123.229,0.0574,22
+red hot chili peppers,peace and love,0.68,0.679,0.867,0.00495,0.00861,83.821,0.0423,6
+red hot chili peppers,reach out,0.663,0.71,0.487,0.00745,0.00559,120.984,0.0599,8
+red hot chili peppers,road trippin',0.378,0.474,0.38,0.28,0.00138,102.379,0.0271,14
+red hot chili peppers,roulette,0.689,0.869,0.84,0.00242,0.00339,100.684,0.0511,5
+red hot chili peppers,scar tissue,0.595,0.717,0.547,0.0779,0.00274,88.969,0.0295,23
+red hot chili peppers,shoot me a smile,0.576,0.798,0.399,0.125,0.134,146.8,0.0351,5
+red hot chili peppers,snow (hey oh),0.427,0.9,0.599,0.116,1.75e-05,104.655,0.0499,8
+red hot chili peppers,the drummer,0.536,0.894,0.784,0.00596,0.0168,174.899,0.0479,9
+red hot chili peppers,the zephyr song,0.725,0.803,0.403,0.013,3.66e-05,117.391,0.0337,10
+red hot chili peppers,tippa my tongue,0.573,0.913,0.795,0.00861,0.0273,88.418,0.0409,7
+red hot chili peppers,under the bridge,0.559,0.345,0.458,0.0576,0.000105,84.581,0.0459,22
+rise against,give it all,0.587,0.942,0.389,0.000354,0.00172,103.061,0.0727,1
+roy orbison,in dreams,0.495,0.435,0.71,0.67,0.00038,108.189,0.0286,1
+scorpions,wind of change,0.429,0.63,0.211,0.078,0.0,151.627,0.0329,1
+sean paul,temperature,0.951,0.6,0.822,0.106,0.0,125.04,0.0685,1
+sia,cheap thrills,0.628,0.698,0.732,0.0472,0.00143,89.976,0.105,2
+sia,snowman,0.716,0.511,0.324,0.483,0.0,104.964,0.0332,1
+silverchair,tomorrow,0.292,0.714,0.462,0.000658,0.000109,151.412,0.0316,1
+sneaker pimps,6 underground,0.587,0.678,0.429,0.0319,0.16,169.947,0.0524,5
+snow patrol,chasing cars,0.56,0.595,0.144,0.199,6.47e-05,104.011,0.0274,1
+sophie ellis-bextor,murder on the dancefloor,0.735,0.848,0.864,0.00312,1.15e-05,117.317,0.0308,1
+soundgarden,black hole sun,0.351,0.827,0.145,0.000222,0.000118,105.463,0.0412,3
+soundgarden,blow up the outside world,0.33,0.529,0.148,0.000807,0.214,140.156,0.0358,1
+soundgarden,burden in my hand,0.319,0.803,0.589,0.00534,0.0126,183.031,0.0394,1
+soundgarden,fell on black days,0.574,0.739,0.514,0.00152,0.000328,101.069,0.0271,10
+soundgarden,spoonman,0.258,0.904,0.832,2.2e-05,0.218,186.054,0.0386,3
+soundgarden,the day i tried to live,0.472,0.752,0.305,0.000164,0.181,133.248,0.0555,4
+stone temple pilots,interstate love song - 2019 remaster,0.215,0.927,0.49,0.000273,0.00661,170.814,0.0452,1
+stone temple pilots,plush,0.416,0.954,0.498,0.0021,0.0,144.724,0.0467,1
+stone temple pilots,vasoline - 2019 remaster,0.295,0.977,0.353,0.00147,0.000187,168.672,0.088,1
+system of a down,aerials,0.364,0.922,0.227,0.000915,0.0346,79.342,0.0567,7
+system of a down,atwa,0.376,0.787,0.371,0.00378,0.0,87.102,0.0394,9
+system of a down,b.y.o.b.,0.538,0.981,0.711,0.00662,0.0,101.414,0.14,7
+system of a down,chop suey!,0.417,0.934,0.287,0.000278,0.0015,127.066,0.119,11
+system of a down,hypnotize,0.274,0.92,0.0397,0.0303,0.000412,154.016,0.0489,4
+system of a down,lonely day,0.47,0.796,0.215,0.362,1.1e-06,113.108,0.0336,2
+system of a down,radio/video,0.358,0.921,0.476,0.171,7.64e-06,139.256,0.0695,6
+system of a down,spiders,0.46,0.54,0.0506,0.0324,0.0168,137.855,0.0381,2
+system of a down,sugar,0.451,0.889,0.586,0.00167,0.00215,131.073,0.261,3
+system of a down,toxicity,0.413,0.873,0.48,0.000264,0.00249,116.68,0.0536,9
+system of a down,vicinity of obscenity,0.546,0.957,0.514,0.0533,3.37e-06,109.775,0.164,2
+system of a down,violent pornography,0.459,0.958,0.586,0.0283,0.0,142.707,0.0877,6
+talking heads,once in a lifetime - 2005 remaster,0.644,0.919,0.87,0.179,0.135,117.458,0.0561,2
+talking heads,psycho killer,0.721,0.521,0.942,0.0707,0.00552,123.118,0.0612,2
+tash sultana,jungle,0.589,0.699,0.496,0.285,8.11e-05,145.997,0.0291,3
+tenacious d,classico,0.738,0.531,0.919,0.907,1.07e-05,170.007,0.14,1
+tenacious d,kickapoo,0.501,0.796,0.582,0.107,0.000974,130.719,0.104,1
+the beach boys,kokomo,0.682,0.635,0.927,0.00863,0.0,115.584,0.0346,1
+the beatles,eleanor rigby,0.521,0.301,0.621,0.836,0.0,137.382,0.0356,1
+the beatles,strawberry fields forever,0.383,0.558,0.207,0.0303,3.98e-05,102.508,0.0514,1
+the blaze,territory,0.563,0.44,0.213,0.286,0.683,120.009,0.0822,1
+the boomtown rats,i don't like mondays,0.464,0.461,0.476,0.717,0.0,143.645,0.0394,1
+the chemical brothers,believe,0.721,0.579,0.583,0.0018,0.115,132.105,0.0498,1
+the doobie brothers,listen to the music,0.645,0.598,0.913,0.221,3.53e-06,105.929,0.0335,1
+the fratellis,she's not gone yet but she's leaving,0.649,0.842,0.849,0.00109,6.7e-06,120.085,0.0352,1
+the herbaliser,funny?,0.928,0.6,0.344,0.883,0.628,105.016,0.0568,4
+the herbaliser,the sensual woman,0.781,0.18,0.189,0.0475,0.923,89.994,0.0719,4
+the herbaliser,wall crawling giant insect breaks,0.834,0.905,0.836,0.0939,0.00227,110.004,0.0966,4
+the human league,don't you want me,0.744,0.686,0.894,0.101,0.0,117.483,0.0437,1
+the prodigy,breathe,0.673,0.808,0.303,0.0121,0.878,130.041,0.0491,1
+the prodigy,diesel power,0.725,0.877,0.0976,0.068,3.65e-05,105.921,0.0646,1
+the raconteurs,blue veins,0.373,0.434,0.0793,0.193,0.00554,130.702,0.0449,2
+the raconteurs,salute your solution,0.266,0.946,0.498,0.00781,2.73e-06,168.465,0.171,5
+the raconteurs,"steady, as she goes",0.525,0.578,0.537,0.0132,0.00916,123.696,0.12,11
+the rolling stones,beast of burden - remastered 1994,0.784,0.879,0.893,0.39,0.000848,100.622,0.0308,2
+the rolling stones,gimme shelter,0.634,0.63,0.489,0.447,0.0374,118.642,0.031,1
+the script,hall of fame,0.511,0.872,0.511,0.0807,0.0,84.953,0.0491,1
+the smashing pumpkins,bullet with butterfly wings - remastered 2012,0.395,0.751,0.455,5.71e-05,0.838,121.561,0.0618,3
+the smashing pumpkins,"tonight, tonight - remastered 2012",0.277,0.67,0.217,6.28e-05,0.751,148.342,0.0376,1
+the smashing pumpkins,zero - remastered 2012,0.438,0.728,0.701,3.49e-05,0.57,128.04,0.0458,5
+the strokes,life is simple in the moonlight,0.515,0.696,0.513,0.0126,0.000345,134.893,0.0313,1
+the strokes,machu picchu,0.695,0.817,0.874,0.0132,0.097,105.014,0.0659,1
+the strokes,reptilia,0.489,0.649,0.77,0.000603,0.713,158.009,0.0336,1
+the strokes,taken for a fool,0.569,0.89,0.885,0.00595,0.0112,137.044,0.0559,1
+the strokes,under cover of darkness,0.35,0.775,0.588,0.00433,0.283,199.866,0.054,1
+the verve,bitter sweet symphony,0.356,0.917,0.518,0.0335,0.0,171.176,0.0479,2
+the weeknd,save your tears,0.68,0.826,0.644,0.0212,1.24e-05,118.051,0.0309,1
+the white stripes,apple blossom,0.537,0.454,0.626,0.65,0.000154,128.193,0.0551,3
+the white stripes,ball and biscuit,0.506,0.655,0.612,0.0278,0.173,77.406,0.164,21
+the white stripes,blue orchid,0.481,0.645,0.612,0.0863,6.2e-06,151.307,0.318,12
+the white stripes,fell in love with a girl,0.356,0.982,0.299,0.713,0.00145,95.754,0.112,6
+the white stripes,icky thump,0.417,0.63,0.341,0.0209,0.0134,94.214,0.0898,7
+the white stripes,little room,0.456,0.738,0.705,0.00925,0.0,173.406,0.0434,1
+the white stripes,seven nation army,0.743,0.446,0.278,0.0039,0.118,123.596,0.0683,6
+the white stripes,st. james infirmary blues,0.585,0.857,0.624,0.58,0.601,118.861,0.0393,1
+the white stripes,the hardest button to button,0.694,0.515,0.566,0.00666,0.622,128.246,0.0736,27
+the white stripes,we're going to be friends,0.534,0.441,0.439,0.661,0.0,97.009,0.0303,3
+the who,baba o'riley,0.489,0.724,0.15,0.313,0.185,117.292,0.0352,10
+the who,behind blue eyes,0.394,0.622,0.342,0.213,4.45e-05,126.844,0.0336,8
+the who,pinball wizard,0.543,0.715,0.468,0.0192,0.0,124.011,0.0356,2
+the who,who are you,0.651,0.648,0.49,0.262,0.0042,156.372,0.0501,3
+thievery corporation,lebanese blonde,0.812,0.831,0.648,0.246,0.789,92.011,0.0463,1
+thin lizzy,the boys are back in town,0.457,0.87,0.694,0.292,1.67e-06,81.095,0.0711,1
+tool,forty six & 2,0.375,0.682,0.396,0.00152,0.598,159.23,0.0364,12
+tool,lateralus,0.387,0.677,0.371,0.00108,0.871,172.812,0.084,21
+tool,pneuma,0.415,0.53,0.0586,0.00209,0.75,114.174,0.0314,24
+tool,right in two,0.44,0.568,0.248,0.00442,0.84,118.389,0.0293,4
+tool,schism,0.567,0.714,0.191,0.0012,0.417,107.441,0.0302,23
+tool,sober,0.385,0.673,0.187,0.000183,0.149,149.271,0.0329,4
+tool,the pot,0.469,0.79,0.466,0.000148,0.372,107.45,0.0391,15
+tool,vicarious,0.506,0.877,0.302,5.16e-05,0.776,114.589,0.032,17
+tricky,bad things,0.372,0.434,0.0634,0.692,0.866,97.466,0.0443,1
+tricky,ghetto youth,0.914,0.775,0.544,0.0532,0.0,112.338,0.201,1
+unknown mortal orchestra,hunnybee,0.956,0.377,0.566,0.566,0.414,119.993,0.0804,3
+van morrison,brown eyed girl,0.491,0.583,0.908,0.185,0.0,150.566,0.0376,1
+vance joy,riptide,0.484,0.731,0.51,0.431,0.0,101.654,0.0379,1
+videoclub,roi,0.704,0.467,0.29,0.559,0.00117,107.993,0.0342,1
+wave to earth,seasons,0.354,0.277,0.163,0.782,0.0585,60.037,0.0271,1
+weezer,buddy holly,0.555,0.921,0.775,0.00264,0.000205,121.141,0.0369,2
+weezer,my name is jonas,0.261,0.947,0.552,0.000193,0.00326,185.942,0.0487,3
+weezer,only in dreams,0.507,0.535,0.403,0.00215,0.495,78.049,0.0261,2
+weezer,pork and beans,0.599,0.626,0.708,0.0108,8.8e-06,119.837,0.0339,1
+weezer,say it ain't so,0.635,0.551,0.451,0.00743,1.82e-05,151.779,0.0354,2
+weezer,the world has turned and left me here,0.455,0.918,0.56,0.000399,0.0134,99.078,0.0352,1
+weezer,undone - the sweater song,0.457,0.618,0.579,0.00114,0.00257,80.184,0.0296,1
+wham!,last christmas,0.735,0.478,0.947,0.189,2.48e-06,107.682,0.0293,1
