@@ -1,6 +1,16 @@
-# Work Log - Mark Lambert (C00192497)
+# **Data Science and Machine Learning 1 - Year 4 Portfolio**
+## Work Log
+*By Mark Lambert - C00192497 | [LinkedIn](https://www.linkedin.com/in/mark-lambert-27tw721921/) | [GitHub](https://github.com/lambert-27)* | [Personal Email](mailto:marklambert123@gmail.com)
 
-This log is a summary of my weekly progress on the Data Science & Machine Learning 1 portfolio.
+*Lecturer: Ben O'Shaughnessey*
+
+*Submission date: 27 November 2026*
+
+*Start Date: 6th October 2026*
+
+---
+
+This log is a summary of my weekly progress on the Data Science & Machine Learning 1 portfolio
 
 | Week | Date | Work Completed |
 | :--- | :--- | :--- |
