@@ -1,6 +1,7 @@
 # **Data Science and Machine Learning 1 - Year 4**
 ## Last.FM Personal Scrobble History Portfolio Repository
-*By Mark Lambert - C00192497*
+*By Mark Lambert - C00192497 | [LinkedIn](https://www.linkedin.com/in/mark-lambert-27tw721921/) | [GitHub](https://github.com/lambert-27)* | [Personal Email](mailto:marklambert123@gmail.com)
+
 
 *Lecturer: Ben O'Shaughnessey*
 
