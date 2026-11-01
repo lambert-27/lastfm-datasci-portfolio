@@ -11,7 +11,7 @@
 
 ---
 
-This portfolio explores my personal Last.Fm listening history using data collection, cleaning and merging with an external dataset for extended features. 
+This portfolio explores my personal Last.fm listening history through data collection, cleaning and a merge with an external dataset for extra track features
 
 It asks whether the release year of the music I listen to changes over time, and whether time of day helps predict which of my most-played artists I will listen to
 
@@ -19,15 +19,17 @@ It asks whether the release year of the music I listen to changes over time, and
 
 | Notebook | Purpose |
 | --- | --- |
-| [`LastFMDataCollection.ipynb`](LastFMDataCollection.ipynb) | Retrieves recent and loved tracks from the Last.Fm API, cleans and aggregates the data, merges with another dataset for extended features|
-| [`LastFMLinearRegression.ipynb`](LastFMLinearRegression.ipynb) | Uses linear regression to explore weekly changes in the average release decade of scrobbled music |
-| [`LastFMLogisticRegression.ipynb`](LastFMLogisticRegression.ipynb) | Looks at whether I listen to different artists at different times of day, focusing on my ten most-played artists |
+| [`portfolio/LastFMDataCollection.ipynb`](portfolio/LastFMDataCollection.ipynb) | Retrieves recent and loved tracks from the Last.fm API, cleans and aggregates the data, and merges it with Spotify features |
+| [`portfolio/LastFMLinearRegression.ipynb`](portfolio/LastFMLinearRegression.ipynb) | Uses linear regression to explore weekly changes in the average release decade of scrobbled music |
+| [`portfolio/LastFMLogisticRegression.ipynb`](portfolio/LastFMLogisticRegression.ipynb) | Looks at whether I listen to different artists at different times of day, focusing on my ten most-played artists |
 
 ## Data
 
-The `datasets/` directory contains the collected and processed data used by the notebooks. This includes raw scrobbles, daily aggregates, loved-track data and extended features from a Spotify dataset retrieved from [HuggingFace]((https://huggingface.co/datasets/GD-Studio/embeat_45m_spotify_tracks))
+The `datasets/` directory contains the collected and processed data used by the notebooks: `scrobbles.csv` and `scrobbled_merged_with_hugging_face.csv`, source for Spotify dataset: [Embeat Spotify tracks dataset on Hugging Face](https://huggingface.co/datasets/GD-Studio/embeat_45m_spotify_tracks). Shared name-cleaning functions live in `portfolio/data_clean.py`
 
-The data collection notebook makes requests to the Last.fm API. To run it, provide your own API key and Last.fm username through a local `lastfm_creds.py` module
+The project specification is in `documentation/`. I’ve also kept a short [diary](WORKLOG.md) with weekly notes on how the portfolio has progressed through development
+
+The data collection notebook makes requests to the Last.fm API and Hugging Face. To run it, provide your own API key, Last.fm username and Hugging Face token through a local `portfolio/lastfm_creds.py` module
 
 Keep API credentials private and out of version control
 
@@ -44,13 +46,13 @@ Keep API credentials private and out of version control
    python -m pip install -r requirements.txt
    ```
 
-3. Open the notebooks in JupyterLab or PyCharm. To start JupyterLab from the repository folder:
+3. Open the notebooks in JupyterLab or PyCharm. Run JupyterLab from the repository folder so the notebook paths and `portfolio` imports resolve correctly:
 
    ```powershell
    jupyter lab
    ```
 
-To run the data collection notebook, create a local `lastfm_creds.py` with your own Last.fm API key, username, and Hugging Face API key:
+To run the data collection notebook, create a local `portfolio/lastfm_creds.py` with your own Last.fm API key, username, and Hugging Face API key:
 
 ```python
 API_KEY = "your_api_key"

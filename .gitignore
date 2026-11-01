@@ -2,4 +2,4 @@
 .idea/
 .ipynb_checkpoints/
 __pycache__/
-lastfm_creds.py
+portfolio/lastfm_creds.py
