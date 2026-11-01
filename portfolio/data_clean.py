@@ -1,3 +1,5 @@
+# Mark Lambert - C00192497
+
 # track & album are cleaned names so the same track matches across both datasets when merging
 def clean_text(s):
     # removes anything in brackets () [] plus whitespace
