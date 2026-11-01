@@ -13,23 +13,23 @@
 
 This portfolio explores my personal Last.Fm listening history using data collection, cleaning and merging with an external dataset for extended features. 
 
-It asks whether the release year of the music I listen to changes over time, and whether time of day helps predict which of my most-played artists I will listen to.
+It asks whether the release year of the music I listen to changes over time, and whether time of day helps predict which of my most-played artists I will listen to
 
 ## Notebooks
 
 | Notebook | Purpose |
 | --- | --- |
 | [`LastFMDataCollection.ipynb`](LastFMDataCollection.ipynb) | Retrieves recent and loved tracks from the Last.Fm API, cleans and aggregates the data, merges with another dataset for extended features|
-| [`LastFMLinearRegression.ipynb`](LastFMLinearRegression.ipynb) | Uses linear regression to explore weekly changes in the average release decade of scrobbled music. |
-| [`LastFMLogisticRegression.ipynb`](LastFMLogisticRegression.ipynb) | Uses time of day to predict the listened-to artist among the ten most-played artists in the dataset. |
+| [`LastFMLinearRegression.ipynb`](LastFMLinearRegression.ipynb) | Uses linear regression to explore weekly changes in the average release decade of scrobbled music |
+| [`LastFMLogisticRegression.ipynb`](LastFMLogisticRegression.ipynb) | Uses time of day to predict the listened-to artist among the ten most-played artists in the dataset |
 
 ## Data
 
 The `datasets/` directory contains the collected and processed data used by the notebooks. This includes raw scrobbles, daily aggregates, loved-track data and extended features from a Spotify dataset retrieved from [HuggingFace]((https://huggingface.co/datasets/GD-Studio/embeat_45m_spotify_tracks))
 
-The data collection notebook makes requests to the Last.fm API. To run it, provide your own API key and Last.fm username through a local `lastfm_creds.py` module. 
+The data collection notebook makes requests to the Last.fm API. To run it, provide your own API key and Last.fm username through a local `lastfm_creds.py` module
 
-Keep API credentials private and out of version control.
+Keep API credentials private and out of version control
 
 ## Installation
 1. Clone the repository and move into its folder:
@@ -45,9 +45,15 @@ Keep API credentials private and out of version control.
    jupyter lab
    ```
 
-To run the data collection notebook, create a local `lastfm_creds.py` with your own Last.fm API key and username.
+To run the data collection notebook, create a local `lastfm_creds.py` with your own Last.fm API key and username
 
-Keep this file and its credentials private.
+```python
+API_KEY = "your_api_key"
+USERNAME = "your_username"
+HF_KEY = "your_huggingface_api_key"
+```
+
+Keep this file and its credentials private
 
 ## Author
 
