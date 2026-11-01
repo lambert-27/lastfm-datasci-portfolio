@@ -21,7 +21,7 @@ It asks whether the release year of the music I listen to changes over time, and
 | --- | --- |
 | [`LastFMDataCollection.ipynb`](LastFMDataCollection.ipynb) | Retrieves recent and loved tracks from the Last.Fm API, cleans and aggregates the data, merges with another dataset for extended features|
 | [`LastFMLinearRegression.ipynb`](LastFMLinearRegression.ipynb) | Uses linear regression to explore weekly changes in the average release decade of scrobbled music |
-| [`LastFMLogisticRegression.ipynb`](LastFMLogisticRegression.ipynb) | Uses time of day to predict the listened-to artist among the ten most-played artists in the dataset |
+| [`LastFMLogisticRegression.ipynb`](LastFMLogisticRegression.ipynb) | Looks at whether I listen to different artists at different times of day, focusing on my ten most-played artists |
 
 ## Data
 
@@ -35,8 +35,13 @@ Keep API credentials private and out of version control
 1. Clone the repository and move into its folder:
 
    ```powershell
-   git clone https://github.com/lambert-27/LastFM---Data-Science-ML-Portfolio.git
-   cd LastFM---Data-Science-ML-Portfolio
+   git clone https://github.com/lambert-27/lastfm-datasci-portfolio.git
+   cd lastfm-datasci-portfolio
+   ```
+2. Install the project dependencies:
+
+   ```powershell
+   python -m pip install -r requirements.txt
    ```
 
 3. Open the notebooks in JupyterLab or PyCharm. To start JupyterLab from the repository folder:
@@ -45,7 +50,7 @@ Keep API credentials private and out of version control
    jupyter lab
    ```
 
-To run the data collection notebook, create a local `lastfm_creds.py` with your own Last.fm API key and username
+To run the data collection notebook, create a local `lastfm_creds.py` with your own Last.fm API key, username, and Hugging Face API key:
 
 ```python
 API_KEY = "your_api_key"
@@ -53,7 +58,7 @@ USERNAME = "your_username"
 HF_KEY = "your_huggingface_api_key"
 ```
 
-Keep this file and its credentials private
+Keep this file and its credentials private. The regression notebooks can be run with the included datasets and do not require API credentials
 
 ## Author
 
@@ -61,3 +66,4 @@ Keep this file and its credentials private
 
 - Personal email: [marklambert123@gmail.com](mailto:marklambert123@gmail.com)
 - SETU email: [c00192497@setu.ie](mailto:c00192497@setu.ie)
+

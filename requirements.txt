@@ -1,0 +1,8 @@
+jupyterlab
+matplotlib
+numpy
+pandas
+requests
+scikit-learn
+huggingface-hub
+datasets
