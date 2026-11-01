@@ -52,7 +52,7 @@ Keep API credentials private and out of version control
    jupyter lab
    ```
 
-To run the data collection notebook, create a local `portfolio/lastfm_creds.py` with your own Last.fm API key, username, and Hugging Face API key:
+To run the data collection notebook, create a local `portfolio/lastfm_creds.py` or edit the `portfolio/lastfm_creds.py.example` file with your own Last.fm API key, username, and Hugging Face API key:
 
 ```python
 API_KEY = "your_api_key"
