@@ -9,6 +9,8 @@
 
 *Start Date: 17th October 2026*
 
+[Weekly diary](documentation/WORKLOG.md)
+
 ---
 
 This portfolio explores my personal Last.fm listening history through data collection, cleaning and a merge with an external dataset for extra track features
