@@ -24,7 +24,7 @@ It asks whether the release year of the music I listen to changes over time, and
 | [`portfolio/LastFMDataCollection.ipynb`](portfolio/LastFMDataCollection.ipynb) | Retrieves recent and loved tracks from the Last.fm API, cleans and aggregates the data, and merges it with Spotify features |
 | [`portfolio/LastFMLinearRegression.ipynb`](portfolio/LastFMLinearRegression.ipynb) | Uses linear regression to explore weekly changes in the average release decade of scrobbled music |
 | [`portfolio/LastFMLogisticRegression.ipynb`](portfolio/LastFMLogisticRegression.ipynb) | Looks at whether I listen to different artists at different times of day, focusing on my ten most-played artists |
-| [`portfolio/LastFMKmeansNotebook.ipynb`](portfolio/LastFMKmeansNotebook.ipynb) | A work in progress notebook currently in development. Currently 
+| [`portfolio/LastFMKmeansNotebook.ipynb`](portfolio/LastFMKmeansNotebook.ipynb) | A work in progress notebook currently in development. Currently researching questions to ask | 
 
 ## Data
 

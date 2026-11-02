@@ -6,3 +6,4 @@ requests
 scikit-learn
 huggingface-hub
 datasets
+seaborn
