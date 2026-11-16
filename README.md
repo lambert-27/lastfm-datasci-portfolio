@@ -28,7 +28,7 @@ It asks whether the release year of the music I listen to changes over time, if 
 
 The `datasets/` directory contains the collected and processed data used by the notebooks: `scrobbles.csv` and `scrobbled_merged_with_hugging_face.csv`, source for Spotify dataset: [Embeat Spotify tracks dataset on Hugging Face](https://huggingface.co/datasets/GD-Studio/embeat_45m_spotify_tracks). Shared name-cleaning functions live in `portfolio/data_clean.py`
 
-The project specification is in `documentation/`. I’ve also kept a short [diary](WORKLOG.md) with weekly notes on how the portfolio has progressed through development
+The project specification is in `documentation/`. I’ve also kept a short [diary](documentation/WORKLOG.md) with weekly notes on how the portfolio has progressed through development
 
 The data collection notebook makes requests to the Last.fm API and Hugging Face. To run it, provide your own API key, Last.fm username and Hugging Face token through a local `portfolio/lastfm_creds.py` module
 
