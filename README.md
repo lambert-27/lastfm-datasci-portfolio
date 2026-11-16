@@ -15,16 +15,14 @@
 
 This portfolio explores my personal Last.fm listening history through data collection, cleaning and a merge with an external dataset for extra track features
 
-It asks whether the release year of the music I listen to changes over time, and whether time of day helps predict which of my most-played artists I will listen to
+It asks whether the release year of the music I listen to changes over time, if the time of day helps predict which of my most-played artists I will listen to, and whether my tracks group into clusters based on their audio features
 
 ## Notebooks
 
 | Notebook | Purpose |
 | --- | --- |
-| [`portfolio/LastFMDataCollection.ipynb`](portfolio/LastFMDataCollection.ipynb) | Retrieves recent and loved tracks from the Last.fm API, cleans and aggregates the data, and merges it with Spotify features |
-| [`portfolio/LastFMLinearRegression.ipynb`](portfolio/LastFMLinearRegression.ipynb) | Uses linear regression to explore weekly changes in the average release decade of scrobbled music |
-| [`portfolio/LastFMLogisticRegression.ipynb`](portfolio/LastFMLogisticRegression.ipynb) | Looks at whether I listen to different artists at different times of day, focusing on my ten most-played artists and a binary logistic regression model predicting whether an artist is metal or not from Spotify audio features |
-| [`portfolio/LastFMKmeansNotebook.ipynb`](portfolio/LastFMKmeansNotebook.ipynb) | A work in progress notebook currently in development. Currently researching questions to ask | 
+| [`LastFMDataSciencePortfolio.ipynb`](LastFMDataSciencePortfolio.ipynb) | The combined portfolio notebook, covering data collection, cleaning and all models end to end |
+| [`model_notebooks/`](model_notebooks/) | This is where the initial work was done for each model and the combined portfolio notebook is derived from here |
 
 ## Data
 
