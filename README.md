@@ -17,12 +17,30 @@ This portfolio explores my personal Last.fm listening history through data colle
 
 It asks whether the release year of the music I listen to changes over time, if the time of day helps predict which of my most-played artists I will listen to, and whether my tracks group into clusters based on their audio features
 
+It also asks how well a track's energy predicts its loudness, what drives the number of songs I scrobble per day and whether a tracks audio features can predict the time of day I listened to it
+
 ## Notebooks
 
 | Notebook | Purpose |
 | --- | --- |
-| [`LastFMDataSciencePortfolio.ipynb`](LastFMDataSciencePortfolio.ipynb) | The combined portfolio notebook, covering data collection, cleaning and all models end to end |
-| [`model_notebooks/`](model_notebooks/) | This is where the initial work was done for each model and the combined portfolio notebook is derived from here |
+| [`LastFMDataSciencePortfolio.ipynb`](portfolio/LastFMDataSciencePortfolio.ipynb) | The combined portfolio notebook, covering data collection, cleaning and all models |
+| [`model_notebooks/`](portfolio/model_notebooks/) | This is where the initial work was done for each model and the combined portfolio notebook is derived from here |
+
+
+## Models and Results
+
+All models were ran on a snapshot of the data pulled, which holds 17,999 plays over 331 days. Plays are matched to Spotify auddio features by cleaned artist and track name and about 81% of plays (14,611) matched
+
+| Model | Question | Result |
+| --- | --- | --- |
+| Linear Regression | Does the average release year change by week? | No meaningful change (Slope of 0.0332 years p/ week, R-squared 0.024 |
+| Linear and Polynomial Regression | How well does energy predict loudness? | Linear scored 0.6086, cubic improved by 6.6 percentage points |
+| Linear Regression | How many songs do I scrobble per day? | Model performed worse than the baseline |
+| Logistic Regression | Can time of day predict which of my top 10 artists I play? | Only Arctic Monkeys and Tame Impala are every predicted |
+| K-means with 4 Clusters | Do my tracks cluster by audio features? | Silhouette of 0.203, clusters overlap |
+| Decision Tree | Can audio features predict the time of day I listened? | Scored 6 points above always guessing evening baseline of 0.406. Morning and night never predicted |
+
+Across the models the output is weak, which can largely be attributed to the lack of data. A longer period of scrobbled data would give better, more accurate results
 
 ## Data
 
@@ -30,10 +48,21 @@ The `datasets/` directory contains the collected and processed data used by the 
 
 The project specification is in `documentation/`. I’ve also kept a short [diary](documentation/WORKLOG.md) with weekly notes on how the portfolio has progressed through development
 
-The data collection notebook makes requests to the Last.fm API and Hugging Face. To run it, provide your own API key, Last.fm username and Hugging Face token through a local `portfolio/lastfm_creds.py` module
+The data collection section of the notebook makes requests to the Last.fm API and Hugging Face. To run it, provide your own API key, Last.fm username and Hugging Face token through a local `portfolio/lastfm_creds.py` module
 
 Keep API credentials private and out of version control
 
+From 1st December 2026 Last.fm will require a Pro subscription to generate a new API key, see [here](https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030). The included CSV files mean the analysis can be run without making any API calls
+
+## Limitations 
+
+- Because the data is my own listening and only covers 331 days none of the results can be generalised to a broader audience. SSeasonal patterns also can't be checked because of the short time-frame.
+- I mostly listen to full albums in order, so scrobbles are mostly runs of the same artists rather than spontaneous, independent choices between plays
+- Night plays are only 402, so any results for the Night class are unreliable
+- Matching to Spotify for features is done by cleaning the name, so some plays may be missed entirely or matched to a different version of the track
+- Spotify audio features are model estimated, meaning sevral overlap
+
+  
 ## Installation
 1. Clone the repository and move into its folder:
 
